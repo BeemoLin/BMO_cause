@@ -1,0 +1,18 @@
+version: '3'
+
+services:
+  worker:
+    restart: always
+    image: tensorflow/tensorflow:2.4.3-gpu-jupyter
+    command: bash -c "source /etc/bash.bashrc && jupyter notebook --notebook-dir=/tf --ip 0.0.0.0 --no-browser --allow-root"
+    environment:
+      CUDA_VISIBLE_DEVICES: 0
+    deploy:
+      resources:
+        reservations:
+          devices:
+          - capabilities: [gpu]
+    ports:
+        - "0.0.0.0:5566:8888"
+    volumes:
+        - "./:/tf/notebooks"
