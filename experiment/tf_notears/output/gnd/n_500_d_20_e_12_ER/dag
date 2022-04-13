@@ -1,0 +1,93 @@
+digraph {
+	x0
+	x1
+	x2
+	x3
+	x4
+	x5
+	x6
+	x7
+	x8
+	x9
+	x10
+	x11
+	x12
+	x13
+	x14
+	x15
+	x16
+	x17
+	x18
+	x19
+	x12 -> x0 [label=1.00]
+	x16 -> x0 [label=1.00]
+	x19 -> x0 [label=1.00]
+	x0 -> x1 [label=1.00]
+	x12 -> x1 [label=1.00]
+	x14 -> x1 [label=1.00]
+	x16 -> x1 [label=1.00]
+	x19 -> x1 [label=1.00]
+	x12 -> x2 [label=1.00]
+	x16 -> x2 [label=1.00]
+	x19 -> x2 [label=1.00]
+	x12 -> x3 [label=1.00]
+	x16 -> x3 [label=1.00]
+	x19 -> x3 [label=1.00]
+	x7 -> x4 [label=1.00]
+	x16 -> x4 [label=1.00]
+	x19 -> x4 [label=1.00]
+	x12 -> x5 [label=1.00]
+	x14 -> x5 [label=1.00]
+	x16 -> x5 [label=1.00]
+	x19 -> x5 [label=1.00]
+	x14 -> x6 [label=1.00]
+	x16 -> x6 [label=1.00]
+	x19 -> x6 [label=1.00]
+	x14 -> x7 [label=1.00]
+	x19 -> x7 [label=1.00]
+	x12 -> x8 [label=1.00]
+	x19 -> x8 [label=1.00]
+	x14 -> x9 [label=1.00]
+	x16 -> x9 [label=1.00]
+	x19 -> x9 [label=1.00]
+	x2 -> x10 [label=1.00]
+	x7 -> x10 [label=1.00]
+	x8 -> x10 [label=1.00]
+	x12 -> x10 [label=1.00]
+	x13 -> x10 [label=1.00]
+	x16 -> x10 [label=1.00]
+	x19 -> x10 [label=1.00]
+	x12 -> x11 [label=1.00]
+	x14 -> x11 [label=1.00]
+	x16 -> x11 [label=1.00]
+	x19 -> x11 [label=1.00]
+	x16 -> x12 [label=1.00]
+	x19 -> x12 [label=1.00]
+	x4 -> x13 [label=1.00]
+	x16 -> x13 [label=1.00]
+	x19 -> x13 [label=1.00]
+	x19 -> x14 [label=1.00]
+	x0 -> x15 [label=1.00]
+	x7 -> x15 [label=1.00]
+	x12 -> x15 [label=1.00]
+	x13 -> x15 [label=1.00]
+	x14 -> x15 [label=1.00]
+	x16 -> x15 [label=1.00]
+	x18 -> x15 [label=1.00]
+	x19 -> x15 [label=1.00]
+	x19 -> x16 [label=1.00]
+	x7 -> x17 [label=1.00]
+	x11 -> x17 [label=1.00]
+	x12 -> x17 [label=1.00]
+	x16 -> x17 [label=1.00]
+	x18 -> x17 [label=1.00]
+	x19 -> x17 [label=1.00]
+	x7 -> x18 [label=1.00]
+	x12 -> x18 [label=1.00]
+	x14 -> x18 [label=1.00]
+	x16 -> x18 [label=1.00]
+	x19 -> x18 [label=1.00]
+	{
+		rank=same
+	}
+}

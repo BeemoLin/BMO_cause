@@ -5,14 +5,263 @@ digraph {
 	x3
 	x4
 	x5
-	x3 -> x0 [label=3.01]
-	x0 -> x1 [label=2.90]
-	x2 -> x1 [label=1.94]
-	x3 -> x1 [label=0.07]
-	x3 -> x2 [label=5.98]
-	x0 -> x4 [label=8.00]
-	x2 -> x4 [label=-1.00]
-	x0 -> x5 [label=3.95]
+	x6
+	x7
+	x8
+	x9
+	x10
+	x11
+	x12
+	x13
+	x14
+	x15
+	x16
+	x17
+	x18
+	x19
+	x20
+	x21
+	x22
+	x23
+	x24
+	x25
+	x26
+	x27
+	x28
+	x29
+	x30
+	x31
+	x32
+	x33
+	x34
+	x35
+	x36
+	x37
+	x38
+	x39
+	x40
+	x41
+	x42
+	x43
+	x44
+	x45
+	x46
+	x47
+	x48
+	x49
+	x50
+	x51
+	x52
+	x53
+	x54
+	x55
+	x56
+	x57
+	x58
+	x59
+	x60
+	x61
+	x62
+	x63
+	x2 -> x0 [label=-0.05]
+	x4 -> x0 [label=-0.02]
+	x10 -> x0 [label=-0.09]
+	x19 -> x0 [label=0.01]
+	x23 -> x0 [label=0.03]
+	x51 -> x0 [label=0.03]
+	x3 -> x2 [label=0.99]
+	x4 -> x3 [label=0.50]
+	x5 -> x3 [label=0.45]
+	x5 -> x4 [label=0.72]
+	x28 -> x5 [label=0.05]
+	x31 -> x5 [label=0.02]
+	x37 -> x5 [label=-0.06]
+	x44 -> x5 [label=0.01]
+	x9 -> x6 [label=0.13]
+	x15 -> x6 [label=-0.01]
+	x16 -> x6 [label=-0.21]
+	x17 -> x6 [label=0.52]
+	x18 -> x6 [label=-0.07]
+	x2 -> x7 [label=-0.01]
+	x6 -> x7 [label=0.80]
+	x9 -> x7 [label=-0.15]
+	x17 -> x7 [label=0.05]
+	x22 -> x8 [label=-0.03]
+	x54 -> x8 [label=-0.90]
+	x1 -> x9 [label=0.07]
+	x2 -> x9 [label=0.33]
+	x13 -> x9 [label=-0.14]
+	x18 -> x9 [label=-0.09]
+	x24 -> x9 [label=0.02]
+	x28 -> x9 [label=0.01]
+	x29 -> x9 [label=0.02]
+	x35 -> x9 [label=0.02]
+	x37 -> x9 [label=-0.04]
+	x42 -> x9 [label=-0.06]
+	x44 -> x9 [label=0.03]
+	x50 -> x9 [label=-0.01]
+	x51 -> x9 [label=-0.03]
+	x53 -> x9 [label=0.05]
+	x56 -> x9 [label=0.13]
+	x0 -> x11 [label=0.07]
+	x2 -> x11 [label=-0.03]
+	x10 -> x11 [label=-0.05]
+	x12 -> x11 [label=-0.10]
+	x13 -> x11 [label=0.08]
+	x14 -> x11 [label=0.11]
+	x37 -> x11 [label=0.02]
+	x10 -> x12 [label=0.12]
+	x14 -> x13 [label=0.89]
+	x2 -> x14 [label=-0.10]
+	x10 -> x14 [label=-0.06]
+	x37 -> x14 [label=0.10]
+	x8 -> x15 [label=-0.61]
+	x9 -> x15 [label=-0.06]
+	x13 -> x15 [label=0.06]
+	x14 -> x15 [label=0.01]
+	x54 -> x15 [label=0.04]
+	x55 -> x15 [label=-0.03]
+	x59 -> x15 [label=0.03]
+	x8 -> x16 [label=-0.10]
+	x10 -> x16 [label=0.07]
+	x15 -> x16 [label=0.38]
+	x18 -> x16 [label=-0.11]
+	x50 -> x16 [label=0.05]
+	x52 -> x16 [label=0.01]
+	x53 -> x16 [label=0.04]
+	x56 -> x16 [label=0.09]
+	x2 -> x17 [label=-0.02]
+	x16 -> x17 [label=0.56]
+	x18 -> x17 [label=0.33]
+	x1 -> x18 [label=0.06]
+	x2 -> x18 [label=-0.11]
+	x59 -> x19 [label=0.39]
+	x0 -> x20 [label=0.01]
+	x1 -> x20 [label=-0.06]
+	x8 -> x20 [label=-0.05]
+	x10 -> x20 [label=-0.15]
+	x11 -> x20 [label=0.01]
+	x28 -> x20 [label=0.03]
+	x31 -> x20 [label=0.06]
+	x36 -> x20 [label=0.03]
+	x38 -> x20 [label=-0.02]
+	x40 -> x20 [label=0.05]
+	x54 -> x20 [label=0.11]
+	x0 -> x21 [label=0.02]
+	x1 -> x21 [label=-0.60]
+	x9 -> x21 [label=-0.06]
+	x10 -> x21 [label=-0.02]
+	x20 -> x21 [label=-0.40]
+	x2 -> x22 [label=0.02]
+	x9 -> x22 [label=0.81]
+	x13 -> x22 [label=-0.04]
+	x23 -> x24 [label=0.14]
+	x31 -> x24 [label=0.22]
+	x33 -> x27 [label=0.12]
+	x48 -> x27 [label=0.85]
+	x23 -> x31 [label=0.08]
+	x23 -> x32 [label=0.13]
+	x26 -> x32 [label=0.05]
+	x45 -> x32 [label=0.24]
+	x41 -> x33 [label=0.98]
+	x8 -> x38 [label=0.04]
+	x9 -> x38 [label=-0.01]
+	x13 -> x38 [label=-0.11]
+	x22 -> x38 [label=-0.04]
+	x37 -> x38 [label=-0.35]
+	x39 -> x38 [label=0.37]
+	x42 -> x38 [label=0.03]
+	x55 -> x38 [label=0.02]
+	x8 -> x39 [label=0.21]
+	x9 -> x39 [label=0.09]
+	x29 -> x39 [label=0.02]
+	x37 -> x39 [label=-0.38]
+	x8 -> x40 [label=-0.05]
+	x9 -> x40 [label=-0.05]
+	x12 -> x40 [label=0.04]
+	x37 -> x40 [label=0.10]
+	x38 -> x40 [label=-0.16]
+	x39 -> x40 [label=-0.27]
+	x42 -> x40 [label=-0.01]
+	x54 -> x40 [label=0.04]
+	x0 -> x41 [label=0.76]
+	x24 -> x43 [label=0.02]
+	x25 -> x43 [label=0.02]
+	x28 -> x43 [label=0.06]
+	x29 -> x43 [label=0.04]
+	x31 -> x43 [label=0.03]
+	x32 -> x43 [label=0.02]
+	x46 -> x43 [label=0.05]
+	x51 -> x43 [label=0.08]
+	x26 -> x44 [label=0.33]
+	x23 -> x45 [label=0.13]
+	x23 -> x46 [label=0.01]
+	x28 -> x46 [label=0.03]
+	x29 -> x46 [label=0.07]
+	x35 -> x46 [label=0.02]
+	x36 -> x46 [label=0.14]
+	x44 -> x46 [label=0.03]
+	x47 -> x46 [label=0.11]
+	x33 -> x48 [label=0.44]
+	x41 -> x48 [label=0.51]
+	x27 -> x49 [label=0.04]
+	x33 -> x49 [label=0.27]
+	x41 -> x49 [label=0.57]
+	x48 -> x49 [label=0.06]
+	x5 -> x52 [label=0.07]
+	x12 -> x52 [label=0.04]
+	x24 -> x52 [label=0.01]
+	x27 -> x52 [label=0.08]
+	x31 -> x52 [label=0.03]
+	x43 -> x52 [label=0.05]
+	x44 -> x52 [label=0.05]
+	x46 -> x52 [label=0.06]
+	x48 -> x52 [label=0.02]
+	x10 -> x53 [label=0.07]
+	x11 -> x53 [label=-0.03]
+	x14 -> x53 [label=-0.07]
+	x41 -> x53 [label=-0.04]
+	x46 -> x53 [label=0.02]
+	x52 -> x53 [label=0.22]
+	x1 -> x54 [label=0.04]
+	x4 -> x54 [label=0.06]
+	x9 -> x54 [label=-0.24]
+	x12 -> x54 [label=-0.05]
+	x22 -> x54 [label=0.28]
+	x28 -> x54 [label=0.04]
+	x29 -> x54 [label=-0.01]
+	x32 -> x54 [label=-0.01]
+	x35 -> x54 [label=-0.03]
+	x37 -> x54 [label=0.02]
+	x42 -> x54 [label=-0.08]
+	x46 -> x54 [label=-0.11]
+	x50 -> x54 [label=-0.06]
+	x53 -> x54 [label=-0.11]
+	x57 -> x54 [label=-0.02]
+	x8 -> x55 [label=0.57]
+	x14 -> x55 [label=-0.04]
+	x54 -> x55 [label=-0.12]
+	x3 -> x56 [label=0.08]
+	x12 -> x56 [label=-0.06]
+	x35 -> x56 [label=0.01]
+	x52 -> x56 [label=0.02]
+	x10 -> x57 [label=-0.04]
+	x59 -> x57 [label=0.65]
+	x59 -> x58 [label=0.43]
+	x60 -> x58 [label=0.39]
+	x63 -> x58 [label=0.19]
+	x57 -> x60 [label=0.13]
+	x59 -> x60 [label=0.07]
+	x63 -> x60 [label=0.82]
+	x57 -> x61 [label=0.08]
+	x59 -> x61 [label=0.64]
+	x60 -> x61 [label=0.26]
+	x57 -> x62 [label=-0.02]
+	x58 -> x62 [label=0.66]
+	x59 -> x62 [label=-0.34]
+	x63 -> x62 [label=0.67]
+	x57 -> x63 [label=-0.16]
+	x59 -> x63 [label=1.02]
 	{
 		rank=same
 	}

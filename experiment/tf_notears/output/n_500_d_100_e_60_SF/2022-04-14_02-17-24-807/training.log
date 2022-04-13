@@ -1,0 +1,43 @@
+2022-04-13 13:17:24,808 INFO - helpers.log_helper - Finished configuring logger.
+2022-04-13 13:17:24,816 INFO - __main__ - Finished generating dataset
+2022-04-13 13:17:25,494 INFO - models.notears - Model summary:
+2022-04-13 13:17:25,494 INFO - models.notears - ---------
+2022-04-13 13:17:25,495 INFO - models.notears - Variables: name (type shape) [size]
+2022-04-13 13:17:25,495 INFO - models.notears - ---------
+2022-04-13 13:17:25,495 INFO - models.notears - Variable:0 (float32 100x100) [10000, bytes: 40000]
+2022-04-13 13:17:25,495 INFO - models.notears - Total size of variables: 10000
+2022-04-13 13:17:25,495 INFO - models.notears - Total bytes of variables: 40000
+2022-04-13 13:17:25,537 INFO - trainers.al_trainer - Started training for 20 iterations
+2022-04-13 13:17:25,537 INFO - trainers.al_trainer - rho 1.000E+00, alpha 0.000E+00
+2022-04-13 13:17:29,794 INFO - trainers.al_trainer - [Iter 1] loss 3.435E+01, mse 3.333E+04, acyclic 1.429E+00, shd 55, tpr 0.626, fdr 0.287, pred_size 87
+2022-04-13 13:17:29,799 INFO - trainers.al_trainer - rho 1.000E+00, alpha 1.429E+00
+2022-04-13 13:17:33,216 INFO - trainers.al_trainer - rho 1.000E+01, alpha 1.429E+00
+2022-04-13 13:17:36,654 INFO - trainers.al_trainer - rho 1.000E+02, alpha 1.429E+00
+2022-04-13 13:17:40,078 INFO - trainers.al_trainer - [Iter 2] loss 3.902E+01, mse 3.810E+04, acyclic 1.221E-01, shd 32, tpr 0.677, fdr 0.000, pred_size 67
+2022-04-13 13:17:40,078 INFO - trainers.al_trainer - rho 1.000E+02, alpha 1.364E+01
+2022-04-13 13:17:43,663 INFO - trainers.al_trainer - rho 1.000E+03, alpha 1.364E+01
+2022-04-13 13:17:47,279 INFO - trainers.al_trainer - [Iter 3] loss 4.102E+01, mse 4.017E+04, acyclic 2.978E-02, shd 28, tpr 0.717, fdr 0.027, pred_size 73
+2022-04-13 13:17:47,280 INFO - trainers.al_trainer - rho 1.000E+03, alpha 4.342E+01
+2022-04-13 13:17:50,884 INFO - trainers.al_trainer - rho 1.000E+04, alpha 4.342E+01
+2022-04-13 13:17:54,488 INFO - trainers.al_trainer - rho 1.000E+05, alpha 4.342E+01
+2022-04-13 13:17:58,095 INFO - trainers.al_trainer - [Iter 4] loss 4.322E+01, mse 4.273E+04, acyclic 2.724E-03, shd 25, tpr 0.747, fdr 0.039, pred_size 77
+2022-04-13 13:17:58,096 INFO - trainers.al_trainer - rho 1.000E+05, alpha 3.158E+02
+2022-04-13 13:18:01,684 INFO - trainers.al_trainer - rho 1.000E+06, alpha 3.158E+02
+2022-04-13 13:18:05,282 INFO - trainers.al_trainer - [Iter 5] loss 4.417E+01, mse 4.378E+04, acyclic 6.256E-04, shd 25, tpr 0.747, fdr 0.039, pred_size 77
+2022-04-13 13:18:05,282 INFO - trainers.al_trainer - rho 1.000E+06, alpha 9.414E+02
+2022-04-13 13:18:08,881 INFO - trainers.al_trainer - rho 1.000E+07, alpha 9.414E+02
+2022-04-13 13:18:12,455 INFO - trainers.al_trainer - [Iter 6] loss 4.469E+01, mse 4.445E+04, acyclic 1.450E-04, shd 24, tpr 0.758, fdr 0.038, pred_size 78
+2022-04-13 13:18:12,456 INFO - trainers.al_trainer - rho 1.000E+07, alpha 2.391E+03
+2022-04-13 13:18:16,047 INFO - trainers.al_trainer - rho 1.000E+08, alpha 2.391E+03
+2022-04-13 13:18:19,648 INFO - trainers.al_trainer - [Iter 7] loss 4.500E+01, mse 4.492E+04, acyclic 2.289E-05, shd 24, tpr 0.758, fdr 0.038, pred_size 78
+2022-04-13 13:18:19,648 INFO - trainers.al_trainer - rho 1.000E+08, alpha 4.680E+03
+2022-04-13 13:18:23,251 INFO - trainers.al_trainer - rho 1.000E+09, alpha 4.680E+03
+2022-04-13 13:18:26,849 INFO - trainers.al_trainer - rho 1.000E+10, alpha 4.680E+03
+2022-04-13 13:18:30,438 INFO - trainers.al_trainer - [Iter 8] loss 4.535E+01, mse 4.535E+04, acyclic 0.000E+00, shd 27, tpr 0.727, fdr 0.027, pred_size 74
+2022-04-13 13:18:30,438 INFO - trainers.al_trainer - Early stopping at 8-th iteration
+2022-04-13 13:18:30,479 INFO - trainers.al_trainer - Model saved to output/n_500_d_100_e_60_SF/2022-04-14_02-17-24-807/model/
+2022-04-13 13:18:30,480 INFO - __main__ - Finished training model
+2022-04-13 13:18:30,646 INFO - __main__ - Thresholding.
+2022-04-13 13:18:30,804 INFO - __main__ - Results after thresholding by 0.3: {'fdr': 0.02702702702702703, 'tpr': 0.7272727272727273, 'fpr': 0.00041228612657184083, 'shd': 27, 'pred_size': 74}
+2022-04-13 13:18:30,804 INFO - __main__ - The time used to execute this is given below
+2022-04-13 13:18:30,804 INFO - __main__ - 67.6439516544342

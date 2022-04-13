@@ -1,0 +1,3 @@
+!!python/object:helpers.config_utils.TrainArgs
+d: 5
+n: 500

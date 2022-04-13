@@ -1,0 +1,5 @@
+2022-04-03 15:06:37,253 INFO - helpers.log_helper - Finished configuring logger.
+2022-04-03 15:06:37,513 INFO - __main__ - Thresholding.
+2022-04-03 15:06:37,682 INFO - __main__ - Results after thresholding by 0: {'fdr': 0.6, 'tpr': 0.5, 'fpr': 0.05056179775280899, 'shd': 12, 'pred_size': 15}
+2022-04-03 15:06:37,682 INFO - __main__ - The time used to execute this is given below
+2022-04-03 15:06:37,682 INFO - __main__ - 2.2892138957977295

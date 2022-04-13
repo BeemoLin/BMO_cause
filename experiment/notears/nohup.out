@@ -1,0 +1,149 @@
+2022-04-12 02:18:04,853 INFO - helpers.log_helper - Finished configuring logger.
+2022-04-12 02:18:07,036 INFO - __main__ - Thresholding.
+/usr/local/lib/python3.6/dist-packages/pandas/core/computation/expressions.py:204: UserWarning: evaluating in Python space because the '+' operator is not supported by numexpr for the bool dtype, use '|' instead
+  f"evaluating in Python space because the {repr(op_str)} "
+2022-04-12 02:18:07,202 INFO - __main__ - Results after thresholding by 0: {'fdr': 0.6965811965811965, 'tpr': 0.39444444444444443, 'fpr': 0.0036489814192970675, 'shd': 197, 'pred_size': 234}
+2022-04-12 02:18:07,202 INFO - __main__ - The time used to execute this is given below
+2022-04-12 02:18:07,202 INFO - __main__ - 5169.693916320801
+2022-04-12 04:09:22,799 INFO - helpers.log_helper - Finished configuring logger.
+2022-04-12 04:09:22,799 INFO - helpers.log_helper - Finished configuring logger.
+2022-04-12 04:09:25,005 INFO - __main__ - Thresholding.
+2022-04-12 04:09:25,005 INFO - __main__ - Thresholding.
+/usr/local/lib/python3.6/dist-packages/pandas/core/computation/expressions.py:204: UserWarning: evaluating in Python space because the '+' operator is not supported by numexpr for the bool dtype, use '|' instead
+  f"evaluating in Python space because the {repr(op_str)} "
+2022-04-12 04:09:25,259 INFO - __main__ - Results after thresholding by 0: {'fdr': 0.7692307692307693, 'tpr': 0.2508361204013378, 'fpr': 0.005611546317703307, 'shd': 310, 'pred_size': 325}
+2022-04-12 04:09:25,259 INFO - __main__ - Results after thresholding by 0: {'fdr': 0.7692307692307693, 'tpr': 0.2508361204013378, 'fpr': 0.005611546317703307, 'shd': 310, 'pred_size': 325}
+2022-04-12 04:09:25,260 INFO - __main__ - The time used to execute this is given below
+2022-04-12 04:09:25,260 INFO - __main__ - The time used to execute this is given below
+2022-04-12 04:09:25,260 INFO - __main__ - 6677.845461368561
+2022-04-12 04:09:25,260 INFO - __main__ - 6677.845461368561
+2022-04-12 08:14:28,359 INFO - helpers.log_helper - Finished configuring logger.
+2022-04-12 08:14:28,359 INFO - helpers.log_helper - Finished configuring logger.
+2022-04-12 08:14:28,359 INFO - helpers.log_helper - Finished configuring logger.
+2022-04-12 08:14:37,227 INFO - __main__ - Thresholding.
+2022-04-12 08:14:37,227 INFO - __main__ - Thresholding.
+2022-04-12 08:14:37,227 INFO - __main__ - Thresholding.
+/usr/local/lib/python3.6/dist-packages/pandas/core/computation/expressions.py:204: UserWarning: evaluating in Python space because the '+' operator is not supported by numexpr for the bool dtype, use '|' instead
+  f"evaluating in Python space because the {repr(op_str)} "
+2022-04-12 08:14:37,721 INFO - __main__ - Results after thresholding by 0: {'fdr': 0.7391304347826086, 'tpr': 0.4, 'fpr': 0.004566823371390195, 'shd': 214, 'pred_size': 276}
+2022-04-12 08:14:37,721 INFO - __main__ - Results after thresholding by 0: {'fdr': 0.7391304347826086, 'tpr': 0.4, 'fpr': 0.004566823371390195, 'shd': 214, 'pred_size': 276}
+2022-04-12 08:14:37,721 INFO - __main__ - Results after thresholding by 0: {'fdr': 0.7391304347826086, 'tpr': 0.4, 'fpr': 0.004566823371390195, 'shd': 214, 'pred_size': 276}
+2022-04-12 08:14:37,721 INFO - __main__ - The time used to execute this is given below
+2022-04-12 08:14:37,721 INFO - __main__ - The time used to execute this is given below
+2022-04-12 08:14:37,721 INFO - __main__ - The time used to execute this is given below
+2022-04-12 08:14:37,721 INFO - __main__ - 14712.4605717659
+2022-04-12 08:14:37,721 INFO - __main__ - 14712.4605717659
+2022-04-12 08:14:37,721 INFO - __main__ - 14712.4605717659
+2022-04-12 12:11:08,588 INFO - helpers.log_helper - Finished configuring logger.
+2022-04-12 12:11:08,588 INFO - helpers.log_helper - Finished configuring logger.
+2022-04-12 12:11:08,588 INFO - helpers.log_helper - Finished configuring logger.
+2022-04-12 12:11:08,588 INFO - helpers.log_helper - Finished configuring logger.
+2022-04-12 12:11:15,328 INFO - __main__ - Thresholding.
+2022-04-12 12:11:15,328 INFO - __main__ - Thresholding.
+2022-04-12 12:11:15,328 INFO - __main__ - Thresholding.
+2022-04-12 12:11:15,328 INFO - __main__ - Thresholding.
+/usr/local/lib/python3.6/dist-packages/pandas/core/computation/expressions.py:204: UserWarning: evaluating in Python space because the '+' operator is not supported by numexpr for the bool dtype, use '|' instead
+  f"evaluating in Python space because the {repr(op_str)} "
+2022-04-12 12:11:15,604 INFO - __main__ - Results after thresholding by 0: {'fdr': 0.8816738816738817, 'tpr': 0.27424749163879597, 'fpr': 0.01371461920046688, 'shd': 646, 'pred_size': 693}
+2022-04-12 12:11:15,604 INFO - __main__ - Results after thresholding by 0: {'fdr': 0.8816738816738817, 'tpr': 0.27424749163879597, 'fpr': 0.01371461920046688, 'shd': 646, 'pred_size': 693}
+2022-04-12 12:11:15,604 INFO - __main__ - Results after thresholding by 0: {'fdr': 0.8816738816738817, 'tpr': 0.27424749163879597, 'fpr': 0.01371461920046688, 'shd': 646, 'pred_size': 693}
+2022-04-12 12:11:15,604 INFO - __main__ - Results after thresholding by 0: {'fdr': 0.8816738816738817, 'tpr': 0.27424749163879597, 'fpr': 0.01371461920046688, 'shd': 646, 'pred_size': 693}
+2022-04-12 12:11:15,604 INFO - __main__ - The time used to execute this is given below
+2022-04-12 12:11:15,604 INFO - __main__ - The time used to execute this is given below
+2022-04-12 12:11:15,604 INFO - __main__ - The time used to execute this is given below
+2022-04-12 12:11:15,604 INFO - __main__ - The time used to execute this is given below
+2022-04-12 12:11:15,604 INFO - __main__ - 14197.881923437119
+2022-04-12 12:11:15,604 INFO - __main__ - 14197.881923437119
+2022-04-12 12:11:15,604 INFO - __main__ - 14197.881923437119
+2022-04-12 12:11:15,604 INFO - __main__ - 14197.881923437119
+n_500_d_300_e_180_ER
+['1.19.5', '1.1.5', '0.19.1', '1.5.5']
+n_500_d_300_e_180_SF
+['1.19.5', '1.1.5', '0.19.1', '1.5.5']
+n_2000_d_300_e_180_ER
+['1.19.5', '1.1.5', '0.19.1', '1.5.5']
+n_2000_d_300_e_180_SF
+['1.19.5', '1.1.5', '0.19.1', '1.5.5']
+1.5', '0.19.1', '1.5.5']
+sed to execute this is given below
+2022-04-12 08:16:41,805 INFO - __main__ - The time used to execute this is given below
+2022-04-12 08:16:41,805 INFO - __main__ - 14676.153911590576
+2022-04-12 08:16:41,805 INFO - __main__ - 14676.153911590576
+2022-04-12 08:16:41,805 INFO - __main__ - 14676.153911590576
+2022-04-12 08:20:48,637 INFO - helpers.log_helper - Finished configuring logger.
+2022-04-12 08:20:48,637 INFO - helpers.log_helper - Finished configuring logger.
+2022-04-12 08:20:48,637 INFO - helpers.log_helper - Finished configuring logger.
+2022-04-12 08:20:53,898 INFO - __main__ - Thresholding.
+2022-04-12 08:20:53,898 INFO - __main__ - Thresholding.
+2022-04-12 08:20:53,898 INFO - __main__ - Thresholding.
+/usr/local/lib/python3.6/dist-packages/pandas/core/computation/expressions.py:204: UserWarning: evaluating in Python space because the '+' operator is not supported by numexpr for the bool dtype, use '|' instead
+  f"evaluating in Python space because the {repr(op_str)} "
+2022-04-12 08:20:54,193 INFO - __main__ - Results after thresholding by 0: {'fdr': 0.7391304347826086, 'tpr': 0.4, 'fpr': 0.004566823371390195, 'shd': 214, 'pred_size': 276}
+2022-04-12 08:20:54,193 INFO - __main__ - Results after thresholding by 0: {'fdr': 0.7391304347826086, 'tpr': 0.4, 'fpr': 0.004566823371390195, 'shd': 214, 'pred_size': 276}
+2022-04-12 08:20:54,193 INFO - __main__ - Results after thresholding by 0: {'fdr': 0.7391304347826086, 'tpr': 0.4, 'fpr': 0.004566823371390195, 'shd': 214, 'pred_size': 276}
+2022-04-12 08:20:54,194 INFO - __main__ - The time used to execute this is given below
+2022-04-12 08:20:54,194 INFO - __main__ - The time used to execute this is given below
+2022-04-12 08:20:54,194 INFO - __main__ - The time used to execute this is given below
+2022-04-12 08:20:54,194 INFO - __main__ - 14764.39791059494
+2022-04-12 08:20:54,194 INFO - __main__ - 14764.39791059494
+2022-04-12 08:20:54,194 INFO - __main__ - 14764.39791059494
+2022-04-12 12:11:55,065 INFO - helpers.log_helper - Finished configuring logger.
+2022-04-12 12:11:55,065 INFO - helpers.log_helper - Finished configuring logger.
+2022-04-12 12:11:55,065 INFO - helpers.log_helper - Finished configuring logger.
+2022-04-12 12:11:55,065 INFO - helpers.log_helper - Finished configuring logger.
+2022-04-12 12:11:58,622 INFO - __main__ - Thresholding.
+2022-04-12 12:11:58,622 INFO - __main__ - Thresholding.
+2022-04-12 12:11:58,622 INFO - __main__ - Thresholding.
+2022-04-12 12:11:58,622 INFO - __main__ - Thresholding.
+/usr/local/lib/python3.6/dist-packages/pandas/core/computation/expressions.py:204: UserWarning: evaluating in Python space because the '+' operator is not supported by numexpr for the bool dtype, use '|' instead
+  f"evaluating in Python space because the {repr(op_str)} "
+2022-04-12 12:11:58,824 INFO - __main__ - Results after thresholding by 0: {'fdr': 0.8816738816738817, 'tpr': 0.27424749163879597, 'fpr': 0.01371461920046688, 'shd': 646, 'pred_size': 693}
+2022-04-12 12:11:58,824 INFO - __main__ - Results after thresholding by 0: {'fdr': 0.8816738816738817, 'tpr': 0.27424749163879597, 'fpr': 0.01371461920046688, 'shd': 646, 'pred_size': 693}
+2022-04-12 12:11:58,824 INFO - __main__ - Results after thresholding by 0: {'fdr': 0.8816738816738817, 'tpr': 0.27424749163879597, 'fpr': 0.01371461920046688, 'shd': 646, 'pred_size': 693}
+2022-04-12 12:11:58,824 INFO - __main__ - Results after thresholding by 0: {'fdr': 0.8816738816738817, 'tpr': 0.27424749163879597, 'fpr': 0.01371461920046688, 'shd': 646, 'pred_size': 693}
+2022-04-12 12:11:58,824 INFO - __main__ - The time used to execute this is given below
+2022-04-12 12:11:58,824 INFO - __main__ - The time used to execute this is given below
+2022-04-12 12:11:58,824 INFO - __main__ - The time used to execute this is given below
+2022-04-12 12:11:58,824 INFO - __main__ - The time used to execute this is given below
+2022-04-12 12:11:58,824 INFO - __main__ - 14117.017441749573
+2022-04-12 12:11:58,824 INFO - __main__ - 14117.017441749573
+2022-04-12 12:11:58,824 INFO - __main__ - 14117.017441749573
+2022-04-12 12:11:58,824 INFO - __main__ - 14117.017441749573
+n_500_d_300_e_180_ER
+['1.19.5', '1.1.5', '0.19.1', '1.5.5']
+n_500_d_300_e_180_SF
+['1.19.5', '1.1.5', '0.19.1', '1.5.5']
+n_2000_d_300_e_180_ER
+['1.19.5', '1.1.5', '0.19.1', '1.5.5']
+n_2000_d_300_e_180_SF
+['1.19.5', '1.1.5', '0.19.1', '1.5.5']
+2022-04-12 12:13:50,925 INFO - helpers.log_helper - Finished configuring logger.
+2022-04-12 12:13:50,925 INFO - helpers.log_helper - Finished configuring logger.
+2022-04-12 12:13:50,925 INFO - helpers.log_helper - Finished configuring logger.
+2022-04-12 12:13:50,925 INFO - helpers.log_helper - Finished configuring logger.
+2022-04-12 12:13:54,444 INFO - __main__ - Thresholding.
+2022-04-12 12:13:54,444 INFO - __main__ - Thresholding.
+2022-04-12 12:13:54,444 INFO - __main__ - Thresholding.
+2022-04-12 12:13:54,444 INFO - __main__ - Thresholding.
+/usr/local/lib/python3.6/dist-packages/pandas/core/computation/expressions.py:204: UserWarning: evaluating in Python space because the '+' operator is not supported by numexpr for the bool dtype, use '|' instead
+  f"evaluating in Python space because the {repr(op_str)} "
+2022-04-12 12:13:54,632 INFO - __main__ - Results after thresholding by 0: {'fdr': 0.8816738816738817, 'tpr': 0.27424749163879597, 'fpr': 0.01371461920046688, 'shd': 646, 'pred_size': 693}
+2022-04-12 12:13:54,632 INFO - __main__ - Results after thresholding by 0: {'fdr': 0.8816738816738817, 'tpr': 0.27424749163879597, 'fpr': 0.01371461920046688, 'shd': 646, 'pred_size': 693}
+2022-04-12 12:13:54,632 INFO - __main__ - Results after thresholding by 0: {'fdr': 0.8816738816738817, 'tpr': 0.27424749163879597, 'fpr': 0.01371461920046688, 'shd': 646, 'pred_size': 693}
+2022-04-12 12:13:54,632 INFO - __main__ - Results after thresholding by 0: {'fdr': 0.8816738816738817, 'tpr': 0.27424749163879597, 'fpr': 0.01371461920046688, 'shd': 646, 'pred_size': 693}
+2022-04-12 12:13:54,632 INFO - __main__ - The time used to execute this is given below
+2022-04-12 12:13:54,632 INFO - __main__ - The time used to execute this is given below
+2022-04-12 12:13:54,632 INFO - __main__ - The time used to execute this is given below
+2022-04-12 12:13:54,632 INFO - __main__ - The time used to execute this is given below
+2022-04-12 12:13:54,633 INFO - __main__ - 13980.437679767609
+2022-04-12 12:13:54,633 INFO - __main__ - 13980.437679767609
+2022-04-12 12:13:54,633 INFO - __main__ - 13980.437679767609
+2022-04-12 12:13:54,633 INFO - __main__ - 13980.437679767609
+n_500_d_300_e_180_ER
+['1.19.5', '1.1.5', '0.19.1', '1.5.5']
+n_500_d_300_e_180_SF
+['1.19.5', '1.1.5', '0.19.1', '1.5.5']
+n_2000_d_300_e_180_ER
+['1.19.5', '1.1.5', '0.19.1', '1.5.5']
+n_2000_d_300_e_180_SF
+['1.19.5', '1.1.5', '0.19.1', '1.5.5']

@@ -1,0 +1,223 @@
+digraph {
+	x0
+	x1
+	x2
+	x3
+	x4
+	x5
+	x6
+	x7
+	x8
+	x9
+	x10
+	x11
+	x12
+	x13
+	x14
+	x15
+	x16
+	x17
+	x18
+	x19
+	x20
+	x21
+	x22
+	x23
+	x24
+	x25
+	x26
+	x27
+	x28
+	x29
+	x30
+	x31
+	x32
+	x33
+	x34
+	x35
+	x36
+	x37
+	x38
+	x39
+	x40
+	x41
+	x42
+	x43
+	x44
+	x45
+	x46
+	x47
+	x48
+	x49
+	x50
+	x51
+	x52
+	x53
+	x54
+	x55
+	x56
+	x57
+	x58
+	x59
+	x60
+	x61
+	x62
+	x63
+	x64
+	x65
+	x66
+	x67
+	x68
+	x69
+	x70
+	x71
+	x72
+	x73
+	x74
+	x75
+	x76
+	x77
+	x78
+	x79
+	x80
+	x81
+	x82
+	x83
+	x84
+	x85
+	x86
+	x87
+	x88
+	x89
+	x90
+	x91
+	x92
+	x93
+	x94
+	x95
+	x96
+	x97
+	x98
+	x99
+	x61 -> x0 [label=0.09]
+	x45 -> x1 [label=-0.28]
+	x80 -> x3 [label=-0.55]
+	x88 -> x3 [label=-0.10]
+	x90 -> x3 [label=-0.38]
+	x78 -> x5 [label=-0.82]
+	x85 -> x5 [label=-0.86]
+	x98 -> x5 [label=0.94]
+	x81 -> x7 [label=-0.35]
+	x53 -> x8 [label=0.26]
+	x0 -> x9 [label=-0.20]
+	x56 -> x9 [label=0.29]
+	x59 -> x9 [label=0.02]
+	x80 -> x9 [label=0.01]
+	x81 -> x9 [label=0.02]
+	x24 -> x12 [label=-0.16]
+	x52 -> x12 [label=-0.33]
+	x83 -> x12 [label=-0.08]
+	x5 -> x16 [label=0.12]
+	x10 -> x16 [label=-0.19]
+	x20 -> x16 [label=-0.83]
+	x35 -> x16 [label=-0.01]
+	x36 -> x16 [label=-0.16]
+	x45 -> x16 [label=-0.45]
+	x64 -> x16 [label=0.68]
+	x71 -> x16 [label=-0.39]
+	x73 -> x16 [label=-0.19]
+	x75 -> x16 [label=-0.21]
+	x79 -> x16 [label=-0.25]
+	x92 -> x16 [label=0.32]
+	x94 -> x16 [label=0.38]
+	x96 -> x16 [label=-0.62]
+	x71 -> x19 [label=-0.45]
+	x3 -> x21 [label=-0.46]
+	x52 -> x24 [label=-0.24]
+	x74 -> x24 [label=0.05]
+	x80 -> x24 [label=0.01]
+	x83 -> x24 [label=-0.07]
+	x55 -> x26 [label=-0.82]
+	x40 -> x28 [label=0.27]
+	x43 -> x28 [label=0.54]
+	x67 -> x28 [label=0.04]
+	x57 -> x31 [label=-0.69]
+	x48 -> x34 [label=-0.32]
+	x2 -> x35 [label=0.44]
+	x14 -> x35 [label=0.38]
+	x17 -> x35 [label=-0.30]
+	x36 -> x35 [label=0.36]
+	x70 -> x35 [label=0.69]
+	x97 -> x35 [label=-0.06]
+	x2 -> x36 [label=0.31]
+	x14 -> x36 [label=0.33]
+	x17 -> x36 [label=-0.24]
+	x31 -> x36 [label=0.22]
+	x70 -> x36 [label=0.47]
+	x89 -> x36 [label=0.07]
+	x97 -> x36 [label=0.43]
+	x8 -> x37 [label=-0.42]
+	x53 -> x37 [label=0.05]
+	x48 -> x39 [label=-0.42]
+	x4 -> x40 [label=-0.71]
+	x71 -> x42 [label=0.05]
+	x86 -> x42 [label=-0.24]
+	x23 -> x44 [label=0.34]
+	x65 -> x49 [label=-0.40]
+	x15 -> x50 [label=-0.32]
+	x25 -> x50 [label=0.19]
+	x0 -> x56 [label=0.94]
+	x61 -> x56 [label=0.07]
+	x11 -> x58 [label=0.02]
+	x26 -> x58 [label=0.11]
+	x69 -> x58 [label=0.02]
+	x83 -> x58 [label=-0.01]
+	x96 -> x58 [label=-0.21]
+	x23 -> x59 [label=-0.02]
+	x47 -> x59 [label=-0.42]
+	x63 -> x59 [label=0.20]
+	x1 -> x60 [label=0.02]
+	x92 -> x60 [label=0.06]
+	x93 -> x60 [label=-0.05]
+	x25 -> x62 [label=0.25]
+	x47 -> x63 [label=0.25]
+	x88 -> x68 [label=-0.07]
+	x92 -> x72 [label=-0.02]
+	x97 -> x74 [label=-0.23]
+	x46 -> x75 [label=-0.90]
+	x90 -> x80 [label=-0.64]
+	x52 -> x83 [label=-0.17]
+	x66 -> x84 [label=-0.07]
+	x86 -> x84 [label=-0.38]
+	x6 -> x87 [label=0.87]
+	x8 -> x87 [label=0.38]
+	x18 -> x87 [label=-0.57]
+	x27 -> x87 [label=0.08]
+	x30 -> x87 [label=0.65]
+	x47 -> x87 [label=-0.25]
+	x50 -> x87 [label=0.18]
+	x81 -> x87 [label=-0.62]
+	x80 -> x88 [label=-0.06]
+	x11 -> x92 [label=0.61]
+	x13 -> x92 [label=0.44]
+	x29 -> x92 [label=0.59]
+	x32 -> x92 [label=-0.32]
+	x38 -> x92 [label=-0.18]
+	x52 -> x92 [label=-0.79]
+	x61 -> x92 [label=0.61]
+	x66 -> x92 [label=0.23]
+	x69 -> x92 [label=0.79]
+	x76 -> x92 [label=0.24]
+	x77 -> x92 [label=0.64]
+	x80 -> x92 [label=0.30]
+	x82 -> x92 [label=-0.44]
+	x93 -> x92 [label=0.69]
+	x10 -> x95 [label=-0.35]
+	x16 -> x95 [label=0.09]
+	x71 -> x95 [label=0.02]
+	x73 -> x95 [label=-0.34]
+	x26 -> x96 [label=0.73]
+	{
+		rank=same
+	}
+}

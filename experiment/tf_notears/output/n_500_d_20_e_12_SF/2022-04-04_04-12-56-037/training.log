@@ -1,0 +1,42 @@
+2022-04-03 15:12:56,045 INFO - helpers.log_helper - Finished configuring logger.
+2022-04-03 15:12:56,047 INFO - __main__ - Finished generating dataset
+2022-04-03 15:12:56,702 INFO - models.notears - Model summary:
+2022-04-03 15:12:56,702 INFO - models.notears - ---------
+2022-04-03 15:12:56,702 INFO - models.notears - Variables: name (type shape) [size]
+2022-04-03 15:12:56,702 INFO - models.notears - ---------
+2022-04-03 15:12:56,702 INFO - models.notears - Variable:0 (float32 20x20) [400, bytes: 1600]
+2022-04-03 15:12:56,702 INFO - models.notears - Total size of variables: 400
+2022-04-03 15:12:56,702 INFO - models.notears - Total bytes of variables: 1600
+2022-04-03 15:12:56,746 INFO - trainers.al_trainer - Started training for 20 iterations
+2022-04-03 15:12:56,746 INFO - trainers.al_trainer - rho 1.000E+00, alpha 0.000E+00
+2022-04-03 15:13:00,314 INFO - trainers.al_trainer - [Iter 1] loss 6.894E+00, mse 6.829E+03, acyclic 3.615E-01, shd 25, tpr 0.316, fdr 0.760, pred_size 25
+2022-04-03 15:13:00,321 INFO - trainers.al_trainer - rho 1.000E+00, alpha 3.615E-01
+2022-04-03 15:13:03,091 INFO - trainers.al_trainer - rho 1.000E+01, alpha 3.615E-01
+2022-04-03 15:13:05,898 INFO - trainers.al_trainer - rho 1.000E+02, alpha 3.615E-01
+2022-04-03 15:13:08,678 INFO - trainers.al_trainer - [Iter 2] loss 7.353E+00, mse 7.237E+03, acyclic 4.468E-02, shd 20, tpr 0.000, fdr 1.000, pred_size 13
+2022-04-03 15:13:08,678 INFO - trainers.al_trainer - rho 1.000E+02, alpha 4.830E+00
+2022-04-03 15:13:11,449 INFO - trainers.al_trainer - rho 1.000E+03, alpha 4.830E+00
+2022-04-03 15:13:14,221 INFO - trainers.al_trainer - [Iter 3] loss 7.619E+00, mse 7.512E+03, acyclic 1.058E-02, shd 22, tpr 0.000, fdr 1.000, pred_size 16
+2022-04-03 15:13:14,221 INFO - trainers.al_trainer - rho 1.000E+03, alpha 1.541E+01
+2022-04-03 15:13:17,004 INFO - trainers.al_trainer - rho 1.000E+04, alpha 1.541E+01
+2022-04-03 15:13:19,773 INFO - trainers.al_trainer - [Iter 4] loss 7.772E+00, mse 7.697E+03, acyclic 2.628E-03, shd 27, tpr 0.000, fdr 1.000, pred_size 22
+2022-04-03 15:13:19,773 INFO - trainers.al_trainer - rho 1.000E+04, alpha 4.169E+01
+2022-04-03 15:13:22,555 INFO - trainers.al_trainer - rho 1.000E+05, alpha 4.169E+01
+2022-04-03 15:13:25,352 INFO - trainers.al_trainer - rho 1.000E+06, alpha 4.169E+01
+2022-04-03 15:13:28,123 INFO - trainers.al_trainer - [Iter 5] loss 7.921E+00, mse 7.892E+03, acyclic 2.060E-04, shd 29, tpr 0.000, fdr 1.000, pred_size 24
+2022-04-03 15:13:28,123 INFO - trainers.al_trainer - rho 1.000E+06, alpha 2.477E+02
+2022-04-03 15:13:30,896 INFO - trainers.al_trainer - rho 1.000E+07, alpha 2.477E+02
+2022-04-03 15:13:33,667 INFO - trainers.al_trainer - [Iter 6] loss 7.972E+00, mse 7.953E+03, acyclic 4.196E-05, shd 29, tpr 0.000, fdr 1.000, pred_size 24
+2022-04-03 15:13:33,667 INFO - trainers.al_trainer - rho 1.000E+07, alpha 6.673E+02
+2022-04-03 15:13:36,449 INFO - trainers.al_trainer - rho 1.000E+08, alpha 6.673E+02
+2022-04-03 15:13:39,215 INFO - trainers.al_trainer - [Iter 7] loss 7.994E+00, mse 7.984E+03, acyclic 9.537E-06, shd 29, tpr 0.000, fdr 1.000, pred_size 24
+2022-04-03 15:13:39,216 INFO - trainers.al_trainer - rho 1.000E+08, alpha 1.621E+03
+2022-04-03 15:13:41,984 INFO - trainers.al_trainer - rho 1.000E+09, alpha 1.621E+03
+2022-04-03 15:13:44,749 INFO - trainers.al_trainer - [Iter 8] loss 7.999E+00, mse 7.999E+03, acyclic 0.000E+00, shd 29, tpr 0.000, fdr 1.000, pred_size 24
+2022-04-03 15:13:44,751 INFO - trainers.al_trainer - Early stopping at 8-th iteration
+2022-04-03 15:13:44,791 INFO - trainers.al_trainer - Model saved to output/n_500_d_20_e_12_SF/2022-04-04_04-12-56-037/model/
+2022-04-03 15:13:44,792 INFO - __main__ - Finished training model
+2022-04-03 15:13:44,975 INFO - __main__ - Thresholding.
+2022-04-03 15:13:45,148 INFO - __main__ - Results after thresholding by 0: {'fdr': 0.95, 'tpr': 1.0, 'fpr': 2.111111111111111, 'shd': 190, 'pred_size': 380}
+2022-04-03 15:13:45,148 INFO - __main__ - The time used to execute this is given below
+2022-04-03 15:13:45,148 INFO - __main__ - 50.715766191482544

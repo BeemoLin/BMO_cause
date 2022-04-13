@@ -1,0 +1,127 @@
+2022-04-12 03:01:10,174 INFO - helpers.log_helper - Finished configuring logger.
+2022-04-12 03:01:10,211 INFO - __main__ - --- n_500_d_20_e_12_ER ---
+2022-04-12 03:01:10,786 INFO - root - You can use `os.environ['CASTLE_BACKEND'] = backend` to set the backend(`pytorch` or `mindspore`).
+2022-04-12 03:01:11,406 INFO - root - You are using ``pytorch`` as the backend.
+2022-04-12 03:01:11,449 INFO - root - GPU is available.
+2022-04-12 03:01:14,479 INFO - root - [start]: n=500, d=20, iter_=100, h_=1e-08, rho_=1e+16
+2022-04-12 03:01:25,519 INFO - root - FINISHED
+2022-04-12 03:01:25,867 INFO - __main__ - Thresholding.
+2022-04-12 03:01:26,127 INFO - __main__ - Results after thresholding by 0.0: {'fdr': 0.9340659340659341, 'tpr': 0.5, 'fpr': 0.47752808988764045, 'shd': 77, 'pred_size': 91}
+2022-04-12 03:01:26,127 INFO - __main__ - The time used to execute this is given below
+2022-04-12 03:01:26,128 INFO - __main__ - 15.930604219436646
+2022-04-12 03:01:26,577 INFO - __main__ - --- n_500_d_20_e_12_SF ---
+2022-04-12 03:01:26,578 INFO - root - GPU is available.
+2022-04-12 03:01:26,580 INFO - root - [start]: n=500, d=20, iter_=100, h_=1e-08, rho_=1e+16
+2022-04-12 03:01:46,347 INFO - root - FINISHED
+2022-04-12 03:01:46,610 INFO - __main__ - Thresholding.
+2022-04-12 03:01:46,868 INFO - __main__ - Results after thresholding by 0.0: {'fdr': 0.8881578947368421, 'tpr': 0.8947368421052632, 'fpr': 0.7894736842105263, 'shd': 112, 'pred_size': 152}
+2022-04-12 03:01:46,868 INFO - __main__ - The time used to execute this is given below
+2022-04-12 03:01:46,868 INFO - __main__ - 20.30814480781555
+2022-04-12 03:01:47,024 INFO - __main__ - --- n_500_d_100_e_60_ER ---
+2022-04-12 03:01:47,025 INFO - root - GPU is available.
+2022-04-12 03:01:47,052 INFO - root - [start]: n=500, d=100, iter_=100, h_=1e-08, rho_=1e+16
+2022-04-12 03:15:31,870 INFO - root - FINISHED
+2022-04-12 03:15:32,054 INFO - __main__ - Thresholding.
+2022-04-12 03:15:32,220 INFO - __main__ - Results after thresholding by 0.0: {'fdr': 0.982176957352005, 'tpr': 0.9333333333333333, 'fpr': 0.631083844580777, 'shd': 2484, 'pred_size': 3142}
+2022-04-12 03:15:32,220 INFO - __main__ - The time used to execute this is given below
+2022-04-12 03:15:32,220 INFO - __main__ - 825.2226819992065
+2022-04-12 03:15:32,606 INFO - __main__ - --- n_500_d_100_e_60_SF ---
+2022-04-12 03:15:32,606 INFO - root - GPU is available.
+2022-04-12 03:15:32,629 INFO - root - [start]: n=500, d=100, iter_=100, h_=1e-08, rho_=1e+16
+2022-04-12 03:41:59,493 INFO - root - FINISHED
+2022-04-12 03:41:59,727 INFO - __main__ - Thresholding.
+2022-04-12 03:41:59,893 INFO - __main__ - Results after thresholding by 0.0: {'fdr': 0.9814563545906829, 'tpr': 0.8282828282828283, 'fpr': 0.8946608946608947, 'shd': 3135, 'pred_size': 4422}
+2022-04-12 03:41:59,893 INFO - __main__ - The time used to execute this is given below
+2022-04-12 03:41:59,894 INFO - __main__ - 1587.3047642707825
+2022-04-12 03:42:00,188 INFO - __main__ - --- n_500_d_300_e_180_ER ---
+2022-04-12 03:42:00,188 INFO - root - GPU is available.
+2022-04-12 03:42:00,389 INFO - root - [start]: n=500, d=300, iter_=100, h_=1e-08, rho_=1e+16
+2022-04-12 09:40:37,708 INFO - root - FINISHED
+2022-04-12 09:40:38,012 INFO - __main__ - Thresholding.
+2022-04-12 09:40:38,299 INFO - __main__ - Results after thresholding by 0.0: {'fdr': 0.9956805731142014, 'tpr': 0.9111111111111111, 'fpr': 0.8462950526080143, 'shd': 28276, 'pred_size': 37968}
+2022-04-12 09:40:38,299 INFO - __main__ - The time used to execute this is given below
+2022-04-12 09:40:38,299 INFO - __main__ - 21518.158777475357
+2022-04-12 09:40:39,782 INFO - __main__ - --- n_500_d_300_e_180_SF ---
+2022-04-12 09:40:39,782 INFO - root - GPU is available.
+2022-04-12 09:40:40,067 INFO - root - [start]: n=500, d=300, iter_=100, h_=1e-08, rho_=1e+16
+2022-04-12 16:11:42,981 INFO - root - FINISHED
+2022-04-12 16:11:43,234 INFO - __main__ - Thresholding.
+2022-04-12 16:11:43,445 INFO - __main__ - Results after thresholding by 0.0: {'fdr': 0.9934820526943909, 'tpr': 0.9498327759197325, 'fpr': 0.9716504680029628, 'shd': 30731, 'pred_size': 43572}
+2022-04-12 16:11:43,445 INFO - __main__ - The time used to execute this is given below
+2022-04-12 16:11:43,445 INFO - __main__ - 23463.759630680084
+2022-04-12 16:11:44,481 INFO - __main__ - --- n_2000_d_20_e_12_ER ---
+2022-04-12 16:11:44,481 INFO - root - GPU is available.
+2022-04-12 16:11:44,484 INFO - root - [start]: n=2000, d=20, iter_=100, h_=1e-08, rho_=1e+16
+2022-04-12 16:12:05,573 INFO - root - FINISHED
+2022-04-12 16:12:05,807 INFO - __main__ - Thresholding.
+2022-04-12 16:12:06,050 INFO - __main__ - Results after thresholding by 0.0: {'fdr': 0.8048780487804879, 'tpr': 0.6666666666666666, 'fpr': 0.1853932584269663, 'shd': 30, 'pred_size': 41}
+2022-04-12 16:12:06,051 INFO - __main__ - The time used to execute this is given below
+2022-04-12 16:12:06,051 INFO - __main__ - 21.58596706390381
+2022-04-12 16:12:06,201 INFO - __main__ - --- n_2000_d_20_e_12_SF ---
+2022-04-12 16:12:06,201 INFO - root - GPU is available.
+2022-04-12 16:12:06,203 INFO - root - [start]: n=2000, d=20, iter_=100, h_=1e-08, rho_=1e+16
+2022-04-12 16:12:33,481 INFO - root - FINISHED
+2022-04-12 16:12:33,753 INFO - __main__ - Thresholding.
+2022-04-12 16:12:33,957 INFO - __main__ - Results after thresholding by 0.0: {'fdr': 0.8064516129032258, 'tpr': 0.9473684210526315, 'fpr': 0.43859649122807015, 'shd': 66, 'pred_size': 93}
+2022-04-12 16:12:33,958 INFO - __main__ - The time used to execute this is given below
+2022-04-12 16:12:33,958 INFO - __main__ - 27.77219295501709
+2022-04-12 16:12:34,167 INFO - __main__ - --- n_2000_d_100_e_60_ER ---
+2022-04-12 16:12:34,168 INFO - root - GPU is available.
+2022-04-12 16:12:34,192 INFO - root - [start]: n=2000, d=100, iter_=100, h_=1e-08, rho_=1e+16
+2022-04-12 16:17:42,703 INFO - root - FINISHED
+2022-04-12 16:17:42,953 INFO - __main__ - Thresholding.
+2022-04-12 16:17:43,157 INFO - __main__ - Results after thresholding by 0.0: {'fdr': 0.952063914780293, 'tpr': 0.6, 'fpr': 0.14621676891615543, 'shd': 636, 'pred_size': 751}
+2022-04-12 16:17:43,164 INFO - __main__ - The time used to execute this is given below
+2022-04-12 16:17:43,164 INFO - __main__ - 309.04675698280334
+2022-04-12 16:17:43,620 INFO - __main__ - --- n_2000_d_100_e_60_SF ---
+2022-04-12 16:17:43,621 INFO - root - GPU is available.
+2022-04-12 16:17:43,675 INFO - root - [start]: n=2000, d=100, iter_=100, h_=1e-08, rho_=1e+16
+2022-04-12 16:25:51,878 INFO - root - FINISHED
+2022-04-12 16:25:52,096 INFO - __main__ - Thresholding.
+2022-04-12 16:25:52,294 INFO - __main__ - Results after thresholding by 0.0: {'fdr': 0.9492625368731563, 'tpr': 0.8686868686868687, 'fpr': 0.331684188827046, 'shd': 1336, 'pred_size': 1695}
+2022-04-12 16:25:52,294 INFO - __main__ - The time used to execute this is given below
+2022-04-12 16:25:52,294 INFO - __main__ - 488.74522852897644
+2022-04-12 16:25:52,890 INFO - __main__ - --- n_2000_d_300_e_180_ER ---
+2022-04-12 16:25:52,890 INFO - root - GPU is available.
+2022-04-12 16:25:53,105 INFO - root - [start]: n=2000, d=300, iter_=100, h_=1e-08, rho_=1e+16
+2022-04-12 17:50:50,086 INFO - root - FINISHED
+2022-04-12 17:50:50,360 INFO - __main__ - Thresholding.
+2022-04-12 17:50:50,576 INFO - __main__ - Results after thresholding by 0.0: {'fdr': 0.9852973447443494, 'tpr': 0.7444444444444445, 'fpr': 0.20102977389747034, 'shd': 7957, 'pred_size': 9114}
+2022-04-12 17:50:50,576 INFO - __main__ - The time used to execute this is given below
+2022-04-12 17:50:50,576 INFO - __main__ - 5097.858742713928
+2022-04-12 17:50:52,396 INFO - __main__ - --- n_2000_d_300_e_180_SF ---
+2022-04-12 17:50:52,396 INFO - root - GPU is available.
+2022-04-12 17:50:52,616 INFO - root - [start]: n=2000, d=300, iter_=100, h_=1e-08, rho_=1e+16
+2022-04-12 19:54:56,097 INFO - root - FINISHED
+2022-04-12 19:54:56,293 INFO - __main__ - Thresholding.
+2022-04-12 19:54:56,455 INFO - __main__ - Results after thresholding by 0.0: {'fdr': 0.9833344016409205, 'tpr': 0.8695652173913043, 'fpr': 0.3443469282395457, 'shd': 12609, 'pred_size': 15601}
+2022-04-12 19:54:56,455 INFO - __main__ - The time used to execute this is given below
+2022-04-12 19:54:56,455 INFO - __main__ - 7444.227796077728
+2022-04-13 13:44:02,503 INFO - helpers.log_helper - Finished configuring logger.
+2022-04-13 13:44:02,525 INFO - __main__ - --- n_500_d_20_e_12_ER ---
+2022-04-13 13:45:51,788 INFO - helpers.log_helper - Finished configuring logger.
+2022-04-13 13:45:51,795 INFO - __main__ - --- n_500_d_20_e_12_ER ---
+2022-04-13 13:45:52,187 INFO - root - You can use `os.environ['CASTLE_BACKEND'] = backend` to set the backend(`pytorch` or `mindspore`).
+2022-04-13 13:46:26,992 INFO - helpers.log_helper - Finished configuring logger.
+2022-04-13 13:46:27,003 INFO - __main__ - --- n_500_d_20_e_12_ER ---
+2022-04-13 13:46:31,783 INFO - helpers.log_helper - Finished configuring logger.
+2022-04-13 13:46:31,791 INFO - __main__ - --- n_500_d_20_e_12_ER ---
+2022-04-13 13:47:22,442 INFO - helpers.log_helper - Finished configuring logger.
+2022-04-13 13:47:22,450 INFO - __main__ - --- n_500_d_20_e_12_ER ---
+2022-04-13 13:47:22,479 INFO - root - You are using ``pytorch`` as the backend.
+2022-04-13 13:47:22,515 INFO - root - GPU is available.
+2022-04-13 13:47:24,618 INFO - root - [start]: n=500, d=20, iter_=100, h_=1e-08, rho_=1e+16
+2022-04-13 13:47:34,023 INFO - root - FINISHED
+2022-04-13 13:47:34,373 INFO - __main__ - Thresholding.
+2022-04-13 13:47:34,703 INFO - __main__ - Results after thresholding by 0.3: {'fdr': 0.0, 'tpr': 0.6666666666666666, 'fpr': 0.0, 'shd': 4, 'pred_size': 8}
+2022-04-13 13:47:34,705 INFO - __main__ - The time used to execute this is given below
+2022-04-13 13:47:34,707 INFO - __main__ - 12.259418487548828
+2022-04-13 13:47:51,054 INFO - helpers.log_helper - Finished configuring logger.
+2022-04-13 13:47:51,072 INFO - __main__ - --- n_500_d_100_e_60_ER ---
+2022-04-13 13:47:51,074 INFO - root - GPU is available.
+2022-04-13 13:47:51,120 INFO - root - [start]: n=500, d=100, iter_=100, h_=1e-08, rho_=1e+16
+2022-04-13 14:02:20,608 INFO - root - FINISHED
+2022-04-13 14:02:20,960 INFO - __main__ - Thresholding.
+2022-04-13 14:02:21,345 INFO - __main__ - Results after thresholding by 0.3: {'fdr': 0.1724137931034483, 'tpr': 0.8, 'fpr': 0.002044989775051125, 'shd': 18, 'pred_size': 58}
+2022-04-13 14:02:21,347 INFO - __main__ - The time used to execute this is given below
+2022-04-13 14:02:21,349 INFO - __main__ - 870.2898359298706

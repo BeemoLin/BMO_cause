@@ -1,0 +1,40 @@
+2022-04-13 13:18:33,715 INFO - helpers.log_helper - Finished configuring logger.
+2022-04-13 13:18:33,740 INFO - __main__ - Finished generating dataset
+2022-04-13 13:18:34,421 INFO - models.notears - Model summary:
+2022-04-13 13:18:34,421 INFO - models.notears - ---------
+2022-04-13 13:18:34,421 INFO - models.notears - Variables: name (type shape) [size]
+2022-04-13 13:18:34,421 INFO - models.notears - ---------
+2022-04-13 13:18:34,421 INFO - models.notears - Variable:0 (float32 300x300) [90000, bytes: 360000]
+2022-04-13 13:18:34,421 INFO - models.notears - Total size of variables: 90000
+2022-04-13 13:18:34,421 INFO - models.notears - Total bytes of variables: 360000
+2022-04-13 13:18:34,466 INFO - trainers.al_trainer - Started training for 20 iterations
+2022-04-13 13:18:34,466 INFO - trainers.al_trainer - rho 1.000E+00, alpha 0.000E+00
+2022-04-13 13:18:42,133 INFO - trainers.al_trainer - [Iter 1] loss 6.056E+01, mse 5.825E+04, acyclic 2.152E+00, shd 84, tpr 0.550, fdr 0.066, pred_size 106
+2022-04-13 13:18:42,138 INFO - trainers.al_trainer - rho 1.000E+00, alpha 2.152E+00
+2022-04-13 13:18:48,902 INFO - trainers.al_trainer - rho 1.000E+01, alpha 2.152E+00
+2022-04-13 13:18:55,667 INFO - trainers.al_trainer - rho 1.000E+02, alpha 2.152E+00
+2022-04-13 13:19:02,429 INFO - trainers.al_trainer - [Iter 2] loss 7.393E+01, mse 7.036E+04, acyclic 2.465E-01, shd 70, tpr 0.622, fdr 0.067, pred_size 120
+2022-04-13 13:19:02,430 INFO - trainers.al_trainer - rho 1.000E+02, alpha 2.680E+01
+2022-04-13 13:19:09,220 INFO - trainers.al_trainer - rho 1.000E+03, alpha 2.680E+01
+2022-04-13 13:19:16,014 INFO - trainers.al_trainer - rho 1.000E+04, alpha 2.680E+01
+2022-04-13 13:19:22,797 INFO - trainers.al_trainer - [Iter 3] loss 8.881E+01, mse 8.557E+04, acyclic 2.292E-02, shd 69, tpr 0.639, fdr 0.109, pred_size 129
+2022-04-13 13:19:22,798 INFO - trainers.al_trainer - rho 1.000E+04, alpha 2.560E+02
+2022-04-13 13:19:29,574 INFO - trainers.al_trainer - rho 1.000E+05, alpha 2.560E+02
+2022-04-13 13:19:36,339 INFO - trainers.al_trainer - rho 1.000E+06, alpha 2.560E+02
+2022-04-13 13:19:43,121 INFO - trainers.al_trainer - [Iter 4] loss 9.965E+01, mse 9.769E+04, acyclic 1.740E-03, shd 75, tpr 0.633, fdr 0.143, pred_size 133
+2022-04-13 13:19:43,122 INFO - trainers.al_trainer - rho 1.000E+06, alpha 1.995E+03
+2022-04-13 13:19:49,903 INFO - trainers.al_trainer - rho 1.000E+07, alpha 1.995E+03
+2022-04-13 13:19:56,671 INFO - trainers.al_trainer - [Iter 5] loss 1.027E+02, mse 1.015E+05, acyclic 3.357E-04, shd 79, tpr 0.633, fdr 0.180, pred_size 139
+2022-04-13 13:19:56,672 INFO - trainers.al_trainer - rho 1.000E+07, alpha 5.352E+03
+2022-04-13 13:20:03,381 INFO - trainers.al_trainer - rho 1.000E+08, alpha 5.352E+03
+2022-04-13 13:20:10,105 INFO - trainers.al_trainer - [Iter 6] loss 1.032E+02, mse 1.030E+05, acyclic 3.052E-05, shd 78, tpr 0.633, fdr 0.174, pred_size 138
+2022-04-13 13:20:10,106 INFO - trainers.al_trainer - rho 1.000E+08, alpha 8.404E+03
+2022-04-13 13:20:16,839 INFO - trainers.al_trainer - rho 1.000E+09, alpha 8.404E+03
+2022-04-13 13:20:23,553 INFO - trainers.al_trainer - [Iter 7] loss 1.034E+02, mse 1.034E+05, acyclic 0.000E+00, shd 73, tpr 0.633, fdr 0.143, pred_size 133
+2022-04-13 13:20:23,553 INFO - trainers.al_trainer - Early stopping at 7-th iteration
+2022-04-13 13:20:23,598 INFO - trainers.al_trainer - Model saved to output/n_500_d_300_e_180_ER/2022-04-14_02-18-33-714/model/
+2022-04-13 13:20:23,599 INFO - __main__ - Finished training model
+2022-04-13 13:20:23,773 INFO - __main__ - Thresholding.
+2022-04-13 13:20:23,933 INFO - __main__ - Results after thresholding by 0.3: {'fdr': 0.14285714285714285, 'tpr': 0.6333333333333333, 'fpr': 0.0004253413924334005, 'shd': 73, 'pred_size': 133}
+2022-04-13 13:20:23,933 INFO - __main__ - The time used to execute this is given below
+2022-04-13 13:20:23,933 INFO - __main__ - 111.88666224479675

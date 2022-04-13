@@ -1,0 +1,44 @@
+2022-04-03 15:19:46,725 INFO - helpers.log_helper - Finished configuring logger.
+2022-04-03 15:19:46,729 INFO - __main__ - Finished generating dataset
+2022-04-03 15:19:47,389 INFO - models.notears - Model summary:
+2022-04-03 15:19:47,389 INFO - models.notears - ---------
+2022-04-03 15:19:47,390 INFO - models.notears - Variables: name (type shape) [size]
+2022-04-03 15:19:47,390 INFO - models.notears - ---------
+2022-04-03 15:19:47,390 INFO - models.notears - Variable:0 (float32 20x20) [400, bytes: 1600]
+2022-04-03 15:19:47,390 INFO - models.notears - Total size of variables: 400
+2022-04-03 15:19:47,390 INFO - models.notears - Total bytes of variables: 1600
+2022-04-03 15:19:47,413 INFO - trainers.al_trainer - Started training for 20 iterations
+2022-04-03 15:19:47,414 INFO - trainers.al_trainer - rho 1.000E+00, alpha 0.000E+00
+2022-04-03 15:19:51,028 INFO - trainers.al_trainer - [Iter 1] loss 8.350E+00, mse 3.328E+04, acyclic 2.439E-01, shd 11, tpr 0.333, fdr 0.556, pred_size 9
+2022-04-03 15:19:51,035 INFO - trainers.al_trainer - rho 1.000E+00, alpha 2.439E-01
+2022-04-03 15:19:53,865 INFO - trainers.al_trainer - rho 1.000E+01, alpha 2.439E-01
+2022-04-03 15:19:56,781 INFO - trainers.al_trainer - rho 1.000E+02, alpha 2.439E-01
+2022-04-03 15:19:59,609 INFO - trainers.al_trainer - [Iter 2] loss 8.632E+00, mse 3.420E+04, acyclic 3.843E-02, shd 12, tpr 0.083, fdr 0.750, pred_size 4
+2022-04-03 15:19:59,610 INFO - trainers.al_trainer - rho 1.000E+02, alpha 4.087E+00
+2022-04-03 15:20:02,412 INFO - trainers.al_trainer - rho 1.000E+03, alpha 4.087E+00
+2022-04-03 15:20:05,247 INFO - trainers.al_trainer - [Iter 3] loss 8.822E+00, mse 3.499E+04, acyclic 8.741E-03, shd 12, tpr 0.000, fdr 1.000, pred_size 5
+2022-04-03 15:20:05,248 INFO - trainers.al_trainer - rho 1.000E+03, alpha 1.283E+01
+2022-04-03 15:20:08,053 INFO - trainers.al_trainer - rho 1.000E+04, alpha 1.283E+01
+2022-04-03 15:20:10,870 INFO - trainers.al_trainer - [Iter 4] loss 8.929E+00, mse 3.551E+04, acyclic 2.155E-03, shd 12, tpr 0.000, fdr 1.000, pred_size 6
+2022-04-03 15:20:10,878 INFO - trainers.al_trainer - rho 1.000E+04, alpha 3.438E+01
+2022-04-03 15:20:13,687 INFO - trainers.al_trainer - rho 1.000E+05, alpha 3.438E+01
+2022-04-03 15:20:16,506 INFO - trainers.al_trainer - [Iter 5] loss 8.990E+00, mse 3.585E+04, acyclic 4.902E-04, shd 12, tpr 0.000, fdr 1.000, pred_size 6
+2022-04-03 15:20:16,506 INFO - trainers.al_trainer - rho 1.000E+05, alpha 8.340E+01
+2022-04-03 15:20:19,326 INFO - trainers.al_trainer - rho 1.000E+06, alpha 8.340E+01
+2022-04-03 15:20:22,123 INFO - trainers.al_trainer - [Iter 6] loss 9.023E+00, mse 3.602E+04, acyclic 1.163E-04, shd 12, tpr 0.000, fdr 1.000, pred_size 6
+2022-04-03 15:20:22,123 INFO - trainers.al_trainer - rho 1.000E+06, alpha 1.997E+02
+2022-04-03 15:20:24,954 INFO - trainers.al_trainer - rho 1.000E+07, alpha 1.997E+02
+2022-04-03 15:20:27,770 INFO - trainers.al_trainer - rho 1.000E+08, alpha 1.997E+02
+2022-04-03 15:20:30,587 INFO - trainers.al_trainer - [Iter 7] loss 9.052E+00, mse 3.618E+04, acyclic 9.537E-06, shd 12, tpr 0.000, fdr 1.000, pred_size 6
+2022-04-03 15:20:30,587 INFO - trainers.al_trainer - rho 1.000E+08, alpha 1.153E+03
+2022-04-03 15:20:33,394 INFO - trainers.al_trainer - rho 1.000E+09, alpha 1.153E+03
+2022-04-03 15:20:36,206 INFO - trainers.al_trainer - [Iter 8] loss 9.061E+00, mse 3.623E+04, acyclic 1.907E-06, shd 12, tpr 0.000, fdr 1.000, pred_size 6
+2022-04-03 15:20:36,207 INFO - trainers.al_trainer - rho 1.000E+09, alpha 3.061E+03
+2022-04-03 15:20:39,025 INFO - trainers.al_trainer - [Iter 9] loss 9.060E+00, mse 3.624E+04, acyclic 0.000E+00, shd 12, tpr 0.000, fdr 1.000, pred_size 6
+2022-04-03 15:20:39,025 INFO - trainers.al_trainer - Early stopping at 9-th iteration
+2022-04-03 15:20:39,066 INFO - trainers.al_trainer - Model saved to output/n_2000_d_20_e_12_ER/2022-04-04_04-19-46-717/model/
+2022-04-03 15:20:39,067 INFO - __main__ - Finished training model
+2022-04-03 15:20:39,241 INFO - __main__ - Thresholding.
+2022-04-03 15:20:39,419 INFO - __main__ - Results after thresholding by 0: {'fdr': 0.968421052631579, 'tpr': 1.0, 'fpr': 2.067415730337079, 'shd': 190, 'pred_size': 380}
+2022-04-03 15:20:39,419 INFO - __main__ - The time used to execute this is given below
+2022-04-03 15:20:39,419 INFO - __main__ - 54.306453466415405

@@ -1,0 +1,165 @@
+digraph {
+	x0
+	x1
+	x2
+	x3
+	x4
+	x5
+	x6
+	x7
+	x8
+	x9
+	x10
+	x11
+	x12
+	x13
+	x14
+	x15
+	x16
+	x17
+	x18
+	x19
+	x20
+	x21
+	x22
+	x23
+	x24
+	x25
+	x26
+	x27
+	x28
+	x29
+	x30
+	x31
+	x32
+	x33
+	x34
+	x35
+	x36
+	x37
+	x38
+	x39
+	x40
+	x41
+	x42
+	x43
+	x44
+	x45
+	x46
+	x47
+	x48
+	x49
+	x50
+	x51
+	x52
+	x53
+	x54
+	x55
+	x56
+	x57
+	x58
+	x59
+	x60
+	x61
+	x62
+	x63
+	x64
+	x65
+	x66
+	x67
+	x68
+	x69
+	x70
+	x71
+	x72
+	x73
+	x74
+	x75
+	x76
+	x77
+	x78
+	x79
+	x80
+	x81
+	x82
+	x83
+	x84
+	x85
+	x86
+	x87
+	x88
+	x89
+	x90
+	x91
+	x92
+	x93
+	x94
+	x95
+	x96
+	x97
+	x98
+	x99
+	x85 -> x3 [label=-0.24]
+	x55 -> x10 [label=-0.79]
+	x79 -> x10 [label=-0.67]
+	x79 -> x12 [label=0.35]
+	x93 -> x12 [label=-0.91]
+	x21 -> x13 [label=-0.33]
+	x75 -> x13 [label=-0.37]
+	x32 -> x16 [label=0.33]
+	x97 -> x16 [label=-0.56]
+	x60 -> x19 [label=0.79]
+	x97 -> x22 [label=0.02]
+	x17 -> x23 [label=0.31]
+	x7 -> x24 [label=0.26]
+	x2 -> x29 [label=0.06]
+	x40 -> x29 [label=0.86]
+	x8 -> x32 [label=-0.47]
+	x48 -> x34 [label=0.67]
+	x53 -> x34 [label=-0.86]
+	x84 -> x34 [label=-0.77]
+	x4 -> x35 [label=-0.22]
+	x7 -> x35 [label=-0.28]
+	x76 -> x37 [label=0.01]
+	x21 -> x40 [label=-0.84]
+	x73 -> x40 [label=0.25]
+	x85 -> x40 [label=-0.85]
+	x50 -> x43 [label=-0.27]
+	x98 -> x46 [label=0.31]
+	x17 -> x49 [label=0.16]
+	x26 -> x51 [label=0.25]
+	x67 -> x51 [label=-0.19]
+	x19 -> x52 [label=0.32]
+	x50 -> x55 [label=0.52]
+	x82 -> x57 [label=-0.46]
+	x14 -> x58 [label=0.57]
+	x63 -> x58 [label=0.70]
+	x4 -> x60 [label=0.10]
+	x50 -> x60 [label=0.95]
+	x35 -> x63 [label=0.85]
+	x86 -> x63 [label=-0.57]
+	x84 -> x64 [label=0.50]
+	x45 -> x70 [label=-0.40]
+	x24 -> x75 [label=-0.10]
+	x13 -> x77 [label=0.66]
+	x19 -> x77 [label=-0.78]
+	x30 -> x77 [label=0.24]
+	x27 -> x79 [label=0.16]
+	x24 -> x84 [label=-0.06]
+	x98 -> x87 [label=0.21]
+	x8 -> x88 [label=-0.73]
+	x43 -> x88 [label=-0.93]
+	x1 -> x89 [label=0.41]
+	x20 -> x89 [label=-0.85]
+	x96 -> x89 [label=-0.97]
+	x18 -> x90 [label=-0.65]
+	x88 -> x90 [label=0.38]
+	x15 -> x94 [label=0.90]
+	x17 -> x94 [label=0.87]
+	x51 -> x94 [label=0.18]
+	x88 -> x94 [label=-0.61]
+	x44 -> x98 [label=0.96]
+	{
+		rank=same
+	}
+}

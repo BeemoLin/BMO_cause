@@ -1,0 +1,13 @@
+python n_500_d_20_e_12_ER.py
+python n_500_d_20_e_12_SF.py
+python n_500_d_100_e_60_ER.py
+python n_500_d_100_e_60_SF.py
+python n_500_d_300_e_180_ER.py
+python n_500_d_300_e_180_SF.py
+
+python n_2000_d_20_e_12_ER.py
+python n_2000_d_20_e_12_SF.py
+python n_2000_d_100_e_60_ER.py
+python n_2000_d_100_e_60_SF.py
+python n_2000_d_300_e_180_ER.py
+python n_2000_d_300_e_180_SF.py

@@ -1,0 +1,161 @@
+digraph {
+	x0
+	x1
+	x2
+	x3
+	x4
+	x5
+	x6
+	x7
+	x8
+	x9
+	x10
+	x11
+	x12
+	x13
+	x14
+	x15
+	x16
+	x17
+	x18
+	x19
+	x20
+	x21
+	x22
+	x23
+	x24
+	x25
+	x26
+	x27
+	x28
+	x29
+	x30
+	x31
+	x32
+	x33
+	x34
+	x35
+	x36
+	x37
+	x38
+	x39
+	x40
+	x41
+	x42
+	x43
+	x44
+	x45
+	x46
+	x47
+	x48
+	x49
+	x50
+	x51
+	x52
+	x53
+	x54
+	x55
+	x56
+	x57
+	x58
+	x59
+	x60
+	x61
+	x62
+	x63
+	x64
+	x65
+	x66
+	x67
+	x68
+	x69
+	x70
+	x71
+	x72
+	x73
+	x74
+	x75
+	x76
+	x77
+	x78
+	x79
+	x80
+	x81
+	x82
+	x83
+	x84
+	x85
+	x86
+	x87
+	x88
+	x89
+	x90
+	x91
+	x92
+	x93
+	x94
+	x95
+	x96
+	x97
+	x98
+	x99
+	x7 -> x2 [label=-0.72]
+	x9 -> x2 [label=0.57]
+	x27 -> x2 [label=-0.70]
+	x37 -> x2 [label=-1.09]
+	x43 -> x2 [label=-1.32]
+	x62 -> x2 [label=-0.97]
+	x68 -> x2 [label=-0.75]
+	x73 -> x2 [label=0.77]
+	x84 -> x2 [label=-0.55]
+	x90 -> x2 [label=-0.80]
+	x54 -> x8 [label=0.57]
+	x35 -> x9 [label=0.62]
+	x37 -> x9 [label=0.58]
+	x47 -> x9 [label=0.69]
+	x55 -> x9 [label=-0.57]
+	x62 -> x9 [label=0.56]
+	x90 -> x9 [label=0.55]
+	x98 -> x9 [label=0.58]
+	x24 -> x13 [label=0.54]
+	x95 -> x13 [label=-0.62]
+	x3 -> x17 [label=0.60]
+	x21 -> x17 [label=-0.54]
+	x80 -> x17 [label=-0.50]
+	x86 -> x17 [label=-0.67]
+	x87 -> x25 [label=0.59]
+	x93 -> x25 [label=-0.70]
+	x6 -> x38 [label=-0.57]
+	x13 -> x38 [label=0.88]
+	x19 -> x38 [label=-0.72]
+	x33 -> x38 [label=0.97]
+	x46 -> x38 [label=-0.72]
+	x57 -> x38 [label=0.85]
+	x65 -> x38 [label=-1.07]
+	x72 -> x38 [label=-0.81]
+	x10 -> x42 [label=0.51]
+	x85 -> x42 [label=0.57]
+	x12 -> x43 [label=0.98]
+	x22 -> x43 [label=-0.91]
+	x28 -> x43 [label=0.69]
+	x61 -> x43 [label=-0.61]
+	x63 -> x43 [label=-0.65]
+	x67 -> x43 [label=-0.56]
+	x31 -> x60 [label=0.55]
+	x4 -> x82 [label=0.57]
+	x2 -> x83 [label=-0.82]
+	x13 -> x83 [label=-0.62]
+	x19 -> x83 [label=0.56]
+	x33 -> x83 [label=-0.63]
+	x38 -> x83 [label=0.66]
+	x43 -> x83 [label=-1.58]
+	x57 -> x83 [label=-0.73]
+	x65 -> x83 [label=0.75]
+	x72 -> x83 [label=0.54]
+	x29 -> x88 [label=0.59]
+	x71 -> x88 [label=-0.67]
+	x15 -> x97 [label=-0.50]
+	{
+		rank=same
+	}
+}

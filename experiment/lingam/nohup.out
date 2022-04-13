@@ -1,0 +1,16 @@
+['1.19.5', '1.1.5', '0.19.1', '1.5.5']
+Traceback (most recent call last):
+  File "exp.py", line 56, in <module>
+    model.fit(X)
+  File "/usr/local/lib/python3.6/dist-packages/lingam/direct_lingam.py", line 100, in fit
+    m = self._search_causal_order(X_, U)
+  File "/usr/local/lib/python3.6/dist-packages/lingam/direct_lingam.py", line 220, in _search_causal_order
+    xi_std = (X[:, i] - np.mean(X[:, i])) / np.std(X[:, i])
+  File "<__array_function__ internals>", line 6, in std
+  File "/usr/local/lib/python3.6/dist-packages/numpy/core/fromnumeric.py", line 3497, in std
+    **kwargs)
+  File "/usr/local/lib/python3.6/dist-packages/numpy/core/_methods.py", line 234, in _std
+    keepdims=keepdims)
+  File "/usr/local/lib/python3.6/dist-packages/numpy/core/_methods.py", line 195, in _var
+    arrmean, rcount, out=arrmean, casting='unsafe', subok=False)
+KeyboardInterrupt

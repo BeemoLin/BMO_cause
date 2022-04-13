@@ -1,0 +1,40 @@
+digraph {
+	x0
+	x1
+	x2
+	x3
+	x4
+	x5
+	x6
+	x7
+	x8
+	x9
+	x10
+	x11
+	x12
+	x13
+	x14
+	x15
+	x16
+	x17
+	x18
+	x19
+	x0 -> x1 [label=0.48]
+	x8 -> x2 [label=-0.27]
+	x0 -> x5 [label=-0.22]
+	x1 -> x5 [label=0.35]
+	x13 -> x5 [label=-0.04]
+	x19 -> x5 [label=0.05]
+	x17 -> x7 [label=-0.29]
+	x2 -> x10 [label=-0.24]
+	x8 -> x10 [label=0.33]
+	x17 -> x11 [label=0.52]
+	x2 -> x15 [label=0.02]
+	x11 -> x15 [label=-0.34]
+	x17 -> x15 [label=0.29]
+	x19 -> x15 [label=-0.06]
+	x15 -> x18 [label=0.71]
+	{
+		rank=same
+	}
+}
