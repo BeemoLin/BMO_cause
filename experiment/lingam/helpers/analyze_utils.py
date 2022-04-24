@@ -77,7 +77,7 @@ def plot_estimated_graph(W_est, W, save_name=None):
     # plot just the positive data and save the
     # color "mappable" object returned by ax1.imshow
     ax1.set_title('estimated_graph')
-    map1 = ax1.imshow(W_est, cmap='RdBu', interpolation='none')
+    map1 = ax1.imshow(W_est, cmap='Blues', interpolation='none')
 
     # add the colorbar using the figure's method,
     # telling which mappable we're talking about and
@@ -86,7 +86,7 @@ def plot_estimated_graph(W_est, W, save_name=None):
 
     # repeat everything above for the the negative data
     ax2.set_title('true_graph')
-    map2 = ax2.imshow(W, cmap='RdBu', interpolation='none')
+    map2 = ax2.imshow(W, cmap='Blues', interpolation='none')
     fig.colorbar(map2, ax=ax2)
 
     plt.show()

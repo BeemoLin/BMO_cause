@@ -1,0 +1,33 @@
+2022-04-13 16:27:06,221 INFO - helpers.log_helper - Finished configuring logger.
+2022-04-13 16:27:06,241 INFO - __main__ - --- n_500_d_20_e_12_SF ---
+2022-04-13 16:27:06,626 INFO - root - You can use `os.environ['CASTLE_BACKEND'] = backend` to set the backend(`pytorch` or `mindspore`).
+2022-04-13 16:27:07,031 INFO - root - You are using ``pytorch`` as the backend.
+2022-04-13 16:57:25,677 INFO - __main__ - Thresholding.
+2022-04-13 16:57:25,901 INFO - __main__ - Results after thresholding by 0.3: {'fdr': 0.9701492537313433, 'tpr': 0.10526315789473684, 'fpr': 0.38011695906432746, 'shd': 78, 'pred_size': 67}
+2022-04-13 16:57:25,901 INFO - __main__ - The time used to execute this is given below
+2022-04-13 16:57:25,901 INFO - __main__ - 1819.6683852672577
+2022-04-13 16:57:26,316 INFO - __main__ - --- n_2000_d_20_e_12_SF ---
+2022-04-13 17:28:33,184 INFO - __main__ - Thresholding.
+2022-04-13 17:28:33,351 INFO - __main__ - Results after thresholding by 0.3: {'fdr': 0.0, 'tpr': 0.21052631578947367, 'fpr': 0.0, 'shd': 15, 'pred_size': 4}
+2022-04-13 17:28:33,351 INFO - __main__ - The time used to execute this is given below
+2022-04-13 17:28:33,351 INFO - __main__ - 1867.0495052337646
+2022-04-13 17:28:33,407 INFO - __main__ - --- n_500_d_100_e_60_SF ---
+2022-04-13 18:25:07,021 INFO - __main__ - Thresholding.
+2022-04-13 18:25:07,216 INFO - __main__ - Results after thresholding by 0.3: {'fdr': 1.0, 'tpr': 0.0, 'fpr': 0.0655534941249227, 'shd': 406, 'pred_size': 318}
+2022-04-13 18:25:07,216 INFO - __main__ - The time used to execute this is given below
+2022-04-13 18:25:07,216 INFO - __main__ - 3393.824681520462
+2022-04-13 18:25:09,011 INFO - __main__ - --- n_2000_d_100_e_60_SF ---
+2022-04-13 19:36:51,403 INFO - __main__ - Thresholding.
+2022-04-13 19:36:51,566 INFO - __main__ - Results after thresholding by 0.3: {'fdr': 0.0, 'tpr': 0.010101010101010102, 'fpr': 0.0, 'shd': 98, 'pred_size': 1}
+2022-04-13 19:36:51,566 INFO - __main__ - The time used to execute this is given below
+2022-04-13 19:36:51,566 INFO - __main__ - 4302.662061691284
+2022-04-13 19:36:51,718 INFO - __main__ - --- n_500_d_300_e_180_SF ---
+2022-04-13 21:49:07,311 INFO - __main__ - Thresholding.
+2022-04-13 21:49:07,470 INFO - __main__ - Results after thresholding by 0.3: {'fdr': 0.71875, 'tpr': 0.030100334448160536, 'fpr': 0.0005162622612287042, 'shd': 297, 'pred_size': 32}
+2022-04-13 21:49:07,470 INFO - __main__ - The time used to execute this is given below
+2022-04-13 21:49:07,470 INFO - __main__ - 7935.79599738121
+2022-04-13 21:49:08,035 INFO - __main__ - --- n_2000_d_300_e_180_SF ---
+2022-04-14 04:44:53,423 INFO - __main__ - Thresholding.
+2022-04-14 04:44:53,797 INFO - __main__ - Results after thresholding by 0.3: {'fdr': 1.0, 'tpr': 0.0, 'fpr': 0.0027384346030392133, 'shd': 383, 'pred_size': 122}
+2022-04-14 04:44:53,798 INFO - __main__ - The time used to execute this is given below
+2022-04-14 04:44:53,798 INFO - __main__ - 24945.88062787056

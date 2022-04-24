@@ -1,0 +1,39 @@
+digraph {
+	cement
+	slag
+	ash
+	water
+	superplastic
+	coarseagg
+	fineagg
+	age
+	strength
+	cement -> slag [label=-0.58]
+	fineagg -> slag [label=-0.49]
+	cement -> ash [label=-0.79]
+	slag -> ash [label=-0.40]
+	water -> ash [label=0.33]
+	coarseagg -> ash [label=0.42]
+	cement -> water [label=1.21]
+	slag -> water [label=0.33]
+	coarseagg -> water [label=1.90]
+	fineagg -> water [label=4.17]
+	cement -> superplastic [label=4.44]
+	slag -> superplastic [label=2.77]
+	ash -> superplastic [label=5.79]
+	water -> superplastic [label=-2.21]
+	coarseagg -> superplastic [label=-3.30]
+	fineagg -> superplastic [label=14.31]
+	age -> superplastic [label=-3.72]
+	strength -> superplastic [label=2.62]
+	coarseagg -> fineagg [label=0.54]
+	fineagg -> age [label=-0.33]
+	cement -> strength [label=3.52]
+	water -> strength [label=3.43]
+	coarseagg -> strength [label=0.93]
+	fineagg -> strength [label=1.62]
+	age -> strength [label=1.72]
+	{
+		rank=same
+	}
+}

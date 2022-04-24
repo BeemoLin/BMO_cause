@@ -1,0 +1,55 @@
+2022-04-16 10:21:15,989 INFO - helpers.log_helper - Finished configuring logger.
+2022-04-16 10:21:16,149 INFO - __main__ - Finished generating dataset
+2022-04-16 10:21:16,875 INFO - models.notears - Model summary:
+2022-04-16 10:21:16,876 INFO - models.notears - ---------
+2022-04-16 10:21:16,876 INFO - models.notears - Variables: name (type shape) [size]
+2022-04-16 10:21:16,877 INFO - models.notears - ---------
+2022-04-16 10:21:16,877 INFO - models.notears - Variable:0 (float32 591x591) [349281, bytes: 1397124]
+2022-04-16 10:21:16,878 INFO - models.notears - Total size of variables: 349281
+2022-04-16 10:21:16,878 INFO - models.notears - Total bytes of variables: 1397124
+2022-04-16 10:21:16,909 INFO - trainers.al_trainer - Started training for 20 iterations
+2022-04-16 10:21:16,909 INFO - trainers.al_trainer - rho 1.000E+00, alpha 0.000E+00
+2022-04-16 10:21:28,418 INFO - trainers.al_trainer - [Iter 1] loss NAN, mse NAN, acyclic NAN, shd 174345, tpr 1.000, fdr 0.997, pred_size 348690
+2022-04-16 10:21:28,420 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-04-16 10:21:38,997 INFO - trainers.al_trainer - [Iter 2] loss NAN, mse NAN, acyclic NAN, shd 174345, tpr 1.000, fdr 0.997, pred_size 348690
+2022-04-16 10:21:38,998 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-04-16 10:21:49,686 INFO - trainers.al_trainer - [Iter 3] loss NAN, mse NAN, acyclic NAN, shd 174345, tpr 1.000, fdr 0.997, pred_size 348690
+2022-04-16 10:21:49,687 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-04-16 10:22:00,366 INFO - trainers.al_trainer - [Iter 4] loss NAN, mse NAN, acyclic NAN, shd 174345, tpr 1.000, fdr 0.997, pred_size 348690
+2022-04-16 10:22:00,368 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-04-16 10:22:10,952 INFO - trainers.al_trainer - [Iter 5] loss NAN, mse NAN, acyclic NAN, shd 174345, tpr 1.000, fdr 0.997, pred_size 348690
+2022-04-16 10:22:10,954 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-04-16 10:22:21,664 INFO - trainers.al_trainer - [Iter 6] loss NAN, mse NAN, acyclic NAN, shd 174345, tpr 1.000, fdr 0.997, pred_size 348690
+2022-04-16 10:22:21,665 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-04-16 10:22:32,349 INFO - trainers.al_trainer - [Iter 7] loss NAN, mse NAN, acyclic NAN, shd 174345, tpr 1.000, fdr 0.997, pred_size 348690
+2022-04-16 10:22:32,350 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-04-16 10:22:43,028 INFO - trainers.al_trainer - [Iter 8] loss NAN, mse NAN, acyclic NAN, shd 174345, tpr 1.000, fdr 0.997, pred_size 348690
+2022-04-16 10:22:43,030 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-04-16 10:22:53,731 INFO - trainers.al_trainer - [Iter 9] loss NAN, mse NAN, acyclic NAN, shd 174345, tpr 1.000, fdr 0.997, pred_size 348690
+2022-04-16 10:22:53,733 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-04-16 10:23:04,480 INFO - trainers.al_trainer - [Iter 10] loss NAN, mse NAN, acyclic NAN, shd 174345, tpr 1.000, fdr 0.997, pred_size 348690
+2022-04-16 10:23:04,482 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-04-16 10:23:15,229 INFO - trainers.al_trainer - [Iter 11] loss NAN, mse NAN, acyclic NAN, shd 174345, tpr 1.000, fdr 0.997, pred_size 348690
+2022-04-16 10:23:15,231 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-04-16 10:23:26,028 INFO - trainers.al_trainer - [Iter 12] loss NAN, mse NAN, acyclic NAN, shd 174345, tpr 1.000, fdr 0.997, pred_size 348690
+2022-04-16 10:23:26,030 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-04-16 10:23:36,737 INFO - trainers.al_trainer - [Iter 13] loss NAN, mse NAN, acyclic NAN, shd 174345, tpr 1.000, fdr 0.997, pred_size 348690
+2022-04-16 10:23:36,739 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-04-16 10:23:47,551 INFO - trainers.al_trainer - [Iter 14] loss NAN, mse NAN, acyclic NAN, shd 174345, tpr 1.000, fdr 0.997, pred_size 348690
+2022-04-16 10:23:47,553 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-04-16 10:23:58,263 INFO - trainers.al_trainer - [Iter 15] loss NAN, mse NAN, acyclic NAN, shd 174345, tpr 1.000, fdr 0.997, pred_size 348690
+2022-04-16 10:23:58,264 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-04-16 10:24:09,021 INFO - trainers.al_trainer - [Iter 16] loss NAN, mse NAN, acyclic NAN, shd 174345, tpr 1.000, fdr 0.997, pred_size 348690
+2022-04-16 10:24:09,023 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-04-16 10:24:19,739 INFO - trainers.al_trainer - [Iter 17] loss NAN, mse NAN, acyclic NAN, shd 174345, tpr 1.000, fdr 0.997, pred_size 348690
+2022-04-16 10:24:19,740 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-04-16 10:24:30,462 INFO - trainers.al_trainer - [Iter 18] loss NAN, mse NAN, acyclic NAN, shd 174345, tpr 1.000, fdr 0.997, pred_size 348690
+2022-04-16 10:24:30,464 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-04-16 10:24:41,230 INFO - trainers.al_trainer - [Iter 19] loss NAN, mse NAN, acyclic NAN, shd 174345, tpr 1.000, fdr 0.997, pred_size 348690
+2022-04-16 10:24:41,231 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-04-16 10:24:51,938 INFO - trainers.al_trainer - [Iter 20] loss NAN, mse NAN, acyclic NAN, shd 174345, tpr 1.000, fdr 0.997, pred_size 348690
+2022-04-16 10:24:51,983 INFO - trainers.al_trainer - Model saved to output/uci-secom/2022-04-16_23-21-15-988/model/
+2022-04-16 10:24:51,985 INFO - __main__ - Finished training model
+2022-04-16 10:24:52,354 INFO - __main__ - Results: {'fdr': 0.9966732627835613, 'tpr': 1.0, 'fpr': 2.0066980396685623, 'shd': 174345, 'pred_size': 348690}
+2022-04-16 10:24:52,359 INFO - __main__ - The time used to execute this is given below
+2022-04-16 10:24:52,359 INFO - __main__ - 218.2469837665558

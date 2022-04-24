@@ -1,0 +1,34 @@
+digraph {
+	Hydrogen
+	Oxigen
+	Nitrogen
+	Methane
+	CO
+	CO2
+	Ethylene
+	Ethane
+	Acethylene
+	DBDS
+	"Power factor"
+	"Interfacial V"
+	"Dielectric rigidity"
+	"Water content"
+	"Health index"
+	"Life expectation"
+	Ethylene -> Hydrogen [label=0.50]
+	Acethylene -> Hydrogen [label=0.71]
+	"Power factor" -> Hydrogen [label=61.65]
+	Acethylene -> Oxigen [label=1.99]
+	"Interfacial V" -> Oxigen [label=147.67]
+	"Life expectation" -> Oxigen [label=-53.08]
+	DBDS -> Nitrogen [label=18.76]
+	"Dielectric rigidity" -> Nitrogen [label=-224.51]
+	CO -> CO2 [label=4.47]
+	"Power factor" -> CO2 [label=71.98]
+	Methane -> Ethane [label=0.56]
+	"Interfacial V" -> "Water content" [label=-0.80]
+	"Health index" -> "Life expectation" [label=-0.51]
+	{
+		rank=same
+	}
+}

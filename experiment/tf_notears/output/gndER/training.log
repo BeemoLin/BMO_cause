@@ -1,0 +1,119 @@
+2022-04-13 16:27:00,769 INFO - helpers.log_helper - Finished configuring logger.
+2022-04-13 16:27:00,789 INFO - __main__ - --- n_500_d_20_e_12_ER ---
+2022-04-13 16:27:01,172 INFO - root - You can use `os.environ['CASTLE_BACKEND'] = backend` to set the backend(`pytorch` or `mindspore`).
+2022-04-13 16:27:01,572 INFO - root - You are using ``pytorch`` as the backend.
+2022-04-13 16:57:14,534 INFO - __main__ - Thresholding.
+2022-04-13 16:57:14,823 INFO - __main__ - Results after thresholding by 0.0: {'fdr': 0.9264705882352942, 'tpr': 0.4166666666666667, 'fpr': 0.3539325842696629, 'shd': 67, 'pred_size': 68}
+2022-04-13 16:57:14,823 INFO - __main__ - The time used to execute this is given below
+2022-04-13 16:57:14,824 INFO - __main__ - 1814.0425388813019
+2022-04-13 16:57:15,340 INFO - __main__ - --- n_2000_d_20_e_12_ER ---
+2022-04-13 17:28:16,569 INFO - __main__ - Thresholding.
+2022-04-13 17:28:16,791 INFO - __main__ - Results after thresholding by 0.0: {'fdr': 0.0, 'tpr': 0.16666666666666666, 'fpr': 0.0, 'shd': 10, 'pred_size': 2}
+2022-04-13 17:28:16,791 INFO - __main__ - The time used to execute this is given below
+2022-04-13 17:28:16,791 INFO - __main__ - 1861.4671642780304
+2022-04-13 17:28:16,927 INFO - __main__ - --- n_2000_d_100_e_60_ER ---
+2022-04-13 18:53:04,957 INFO - __main__ - Thresholding.
+2022-04-13 18:53:05,118 INFO - __main__ - Results after thresholding by 0.0: {'fdr': 0.0, 'tpr': 0.23333333333333334, 'fpr': 0.0, 'shd': 46, 'pred_size': 14}
+2022-04-13 18:53:05,118 INFO - __main__ - The time used to execute this is given below
+2022-04-13 18:53:05,118 INFO - __main__ - 5088.262803077698
+2022-04-13 18:53:05,343 INFO - __main__ - --- n_2000_d_300_e_180_ER ---
+2022-04-14 00:26:47,526 INFO - __main__ - Thresholding.
+2022-04-14 00:26:47,687 INFO - __main__ - Results after thresholding by 0.0: {'fdr': 0.9987068965517242, 'tpr': 0.016666666666666666, 'fpr': 0.05186926348779942, 'shd': 2477, 'pred_size': 2320}
+2022-04-14 00:26:47,687 INFO - __main__ - The time used to execute this is given below
+2022-04-14 00:26:47,687 INFO - __main__ - 20022.465366840363
+2022-04-14 00:27:12,215 INFO - __main__ - --- n_500_d_100_e_60_ER ---
+2022-04-14 01:11:09,703 INFO - __main__ - Thresholding.
+2022-04-14 01:11:09,867 INFO - __main__ - Results after thresholding by 0.0: {'fdr': 0.9918962722852512, 'tpr': 0.08333333333333333, 'fpr': 0.12515337423312883, 'shd': 662, 'pred_size': 617}
+2022-04-14 01:11:09,867 INFO - __main__ - The time used to execute this is given below
+2022-04-14 01:11:09,867 INFO - __main__ - 2637.6675045490265
+2022-04-14 01:11:13,979 INFO - __main__ - --- n_500_d_300_e_180_ER ---
+2022-04-14 04:56:02,203 INFO - __main__ - Thresholding.
+2022-04-14 04:56:02,361 INFO - __main__ - Results after thresholding by 0.0: {'fdr': 0.76, 'tpr': 0.06666666666666667, 'fpr': 0.000850682784866801, 'shd': 197, 'pred_size': 50}
+2022-04-14 04:56:02,361 INFO - __main__ - The time used to execute this is given below
+2022-04-14 04:56:02,361 INFO - __main__ - 13488.423111915588
+2022-04-16 13:56:49,693 INFO - helpers.log_helper - Finished configuring logger.
+2022-04-16 13:56:49,725 INFO - __main__ - --- n_500_d_20_e_12_ER ---
+2022-04-16 13:57:12,041 INFO - helpers.log_helper - Finished configuring logger.
+2022-04-16 13:57:12,049 INFO - __main__ - --- n_500_d_20_e_12_ER ---
+2022-04-16 13:57:12,052 INFO - __main__ - The time used to execute this is given below
+2022-04-16 13:57:12,053 INFO - __main__ - 0.008467674255371094
+2022-04-16 13:57:35,068 INFO - helpers.log_helper - Finished configuring logger.
+2022-04-16 13:57:35,074 INFO - __main__ - --- n_500_d_20_e_12_ER ---
+2022-04-16 13:57:35,077 INFO - __main__ - The time used to execute this is given below
+2022-04-16 13:57:35,078 INFO - __main__ - 0.008532524108886719
+2022-04-16 13:57:41,483 INFO - helpers.log_helper - Finished configuring logger.
+2022-04-16 13:57:41,489 INFO - __main__ - --- n_500_d_20_e_12_ER ---
+2022-04-16 13:57:41,493 INFO - __main__ - The time used to execute this is given below
+2022-04-16 13:57:41,495 INFO - __main__ - 0.008869647979736328
+2022-04-16 13:57:50,683 INFO - helpers.log_helper - Finished configuring logger.
+2022-04-16 13:57:50,690 INFO - __main__ - --- n_500_d_20_e_12_ER ---
+2022-04-16 13:57:50,694 INFO - __main__ - The time used to execute this is given below
+2022-04-16 13:57:50,696 INFO - __main__ - 0.00920557975769043
+2022-04-16 13:58:23,235 INFO - helpers.log_helper - Finished configuring logger.
+2022-04-16 13:58:23,242 INFO - __main__ - --- n_500_d_20_e_12_ER ---
+2022-04-16 13:58:23,247 INFO - __main__ - Thresholding.
+2022-04-16 13:58:23,639 INFO - __main__ - Results after thresholding by 0.3: {'fdr': 0.9264705882352942, 'tpr': 0.4166666666666667, 'fpr': 0.3539325842696629, 'shd': 67, 'pred_size': 68}
+2022-04-16 13:58:23,641 INFO - __main__ - The time used to execute this is given below
+2022-04-16 13:58:23,642 INFO - __main__ - 0.40326523780822754
+2022-04-16 13:58:41,739 INFO - helpers.log_helper - Finished configuring logger.
+2022-04-16 13:58:41,747 INFO - __main__ - --- n_500_d_20_e_12_ER ---
+2022-04-16 13:58:41,754 INFO - __main__ - Thresholding.
+2022-04-16 13:58:42,086 INFO - __main__ - Results after thresholding by 0.3: {'fdr': 0.9264705882352942, 'tpr': 0.4166666666666667, 'fpr': 0.3539325842696629, 'shd': 67, 'pred_size': 68}
+2022-04-16 13:58:42,089 INFO - __main__ - The time used to execute this is given below
+2022-04-16 13:58:42,093 INFO - __main__ - 0.3462250232696533
+2022-04-16 13:58:42,111 INFO - __main__ - --- n_500_d_100_e_60_ER ---
+2022-04-16 13:58:42,124 INFO - __main__ - Thresholding.
+2022-04-16 13:58:42,449 INFO - __main__ - Results after thresholding by 0.3: {'fdr': 0.9918962722852512, 'tpr': 0.08333333333333333, 'fpr': 0.12515337423312883, 'shd': 662, 'pred_size': 617}
+2022-04-16 13:58:42,451 INFO - __main__ - The time used to execute this is given below
+2022-04-16 13:58:42,453 INFO - __main__ - 0.35437703132629395
+2022-04-16 13:58:42,498 INFO - __main__ - --- n_500_d_300_e_180_ER ---
+2022-04-16 13:58:42,532 INFO - __main__ - Thresholding.
+2022-04-16 13:58:42,854 INFO - __main__ - Results after thresholding by 0.3: {'fdr': 0.76, 'tpr': 0.06666666666666667, 'fpr': 0.000850682784866801, 'shd': 197, 'pred_size': 50}
+2022-04-16 13:58:42,856 INFO - __main__ - The time used to execute this is given below
+2022-04-16 13:58:42,859 INFO - __main__ - 0.40037035942077637
+2022-04-16 13:58:42,871 INFO - __main__ - --- n_2000_d_20_e_12_ER ---
+2022-04-16 13:58:42,876 INFO - __main__ - Thresholding.
+2022-04-16 13:58:43,229 INFO - __main__ - Results after thresholding by 0.3: {'fdr': 0.0, 'tpr': 0.16666666666666666, 'fpr': 0.0, 'shd': 10, 'pred_size': 2}
+2022-04-16 13:58:43,231 INFO - __main__ - The time used to execute this is given below
+2022-04-16 13:58:43,233 INFO - __main__ - 0.369614839553833
+2022-04-16 13:58:43,273 INFO - __main__ - --- n_2000_d_100_e_60_ER ---
+2022-04-16 13:58:43,286 INFO - __main__ - Thresholding.
+2022-04-16 13:58:43,606 INFO - __main__ - Results after thresholding by 0.3: {'fdr': 0.0, 'tpr': 0.23333333333333334, 'fpr': 0.0, 'shd': 46, 'pred_size': 14}
+2022-04-16 13:58:43,608 INFO - __main__ - The time used to execute this is given below
+2022-04-16 13:58:43,610 INFO - __main__ - 0.37325501441955566
+2022-04-16 13:58:43,728 INFO - __main__ - --- n_2000_d_300_e_180_ER ---
+2022-04-16 13:58:43,761 INFO - __main__ - Thresholding.
+2022-04-16 13:58:44,141 INFO - __main__ - Results after thresholding by 0.3: {'fdr': 0.9987068965517242, 'tpr': 0.016666666666666666, 'fpr': 0.05186926348779942, 'shd': 2477, 'pred_size': 2320}
+2022-04-16 13:58:44,143 INFO - __main__ - The time used to execute this is given below
+2022-04-16 13:58:44,145 INFO - __main__ - 0.5309181213378906
+2022-04-16 13:59:28,902 INFO - helpers.log_helper - Finished configuring logger.
+2022-04-16 13:59:28,910 INFO - __main__ - --- n_500_d_20_e_12_SF ---
+2022-04-16 13:59:28,916 INFO - __main__ - Thresholding.
+2022-04-16 13:59:29,239 INFO - __main__ - Results after thresholding by 0.3: {'fdr': 0.9701492537313433, 'tpr': 0.10526315789473684, 'fpr': 0.38011695906432746, 'shd': 78, 'pred_size': 67}
+2022-04-16 13:59:29,242 INFO - __main__ - The time used to execute this is given below
+2022-04-16 13:59:29,244 INFO - __main__ - 0.33641719818115234
+2022-04-16 13:59:29,262 INFO - __main__ - --- n_500_d_100_e_60_SF ---
+2022-04-16 13:59:29,273 INFO - __main__ - Thresholding.
+2022-04-16 13:59:29,586 INFO - __main__ - Results after thresholding by 0.3: {'fdr': 1.0, 'tpr': 0.0, 'fpr': 0.0655534941249227, 'shd': 406, 'pred_size': 318}
+2022-04-16 13:59:29,588 INFO - __main__ - The time used to execute this is given below
+2022-04-16 13:59:29,590 INFO - __main__ - 0.34186458587646484
+2022-04-16 13:59:29,637 INFO - __main__ - --- n_500_d_300_e_180_SF ---
+2022-04-16 13:59:29,667 INFO - __main__ - Thresholding.
+2022-04-16 13:59:29,976 INFO - __main__ - Results after thresholding by 0.3: {'fdr': 0.71875, 'tpr': 0.030100334448160536, 'fpr': 0.0005162622612287042, 'shd': 297, 'pred_size': 32}
+2022-04-16 13:59:29,978 INFO - __main__ - The time used to execute this is given below
+2022-04-16 13:59:29,981 INFO - __main__ - 0.3848552703857422
+2022-04-16 13:59:29,992 INFO - __main__ - --- n_2000_d_20_e_12_SF ---
+2022-04-16 13:59:29,998 INFO - __main__ - Thresholding.
+2022-04-16 13:59:30,328 INFO - __main__ - Results after thresholding by 0.3: {'fdr': 0.0, 'tpr': 0.21052631578947367, 'fpr': 0.0, 'shd': 15, 'pred_size': 4}
+2022-04-16 13:59:30,330 INFO - __main__ - The time used to execute this is given below
+2022-04-16 13:59:30,332 INFO - __main__ - 0.3468458652496338
+2022-04-16 13:59:30,375 INFO - __main__ - --- n_2000_d_100_e_60_SF ---
+2022-04-16 13:59:30,387 INFO - __main__ - Thresholding.
+2022-04-16 13:59:30,696 INFO - __main__ - Results after thresholding by 0.3: {'fdr': 0.0, 'tpr': 0.010101010101010102, 'fpr': 0.0, 'shd': 98, 'pred_size': 1}
+2022-04-16 13:59:30,699 INFO - __main__ - The time used to execute this is given below
+2022-04-16 13:59:30,702 INFO - __main__ - 0.36441969871520996
+2022-04-16 13:59:30,818 INFO - __main__ - --- n_2000_d_300_e_180_SF ---
+2022-04-16 13:59:30,850 INFO - __main__ - Thresholding.
+2022-04-16 13:59:31,156 INFO - __main__ - Results after thresholding by 0.3: {'fdr': 1.0, 'tpr': 0.0, 'fpr': 0.0027384346030392133, 'shd': 383, 'pred_size': 122}
+2022-04-16 13:59:31,158 INFO - __main__ - The time used to execute this is given below
+2022-04-16 13:59:31,161 INFO - __main__ - 0.45444202423095703

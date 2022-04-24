@@ -27,7 +27,7 @@ from helpers.analyze_utils import count_accuracy, plot_estimated_graph
 
 import pandas as pd
 
-LogHelper.setup(log_path='output/gnd/training.log', level_str='INFO')
+LogHelper.setup(log_path='output/gndSF/training.log', level_str='INFO')
 _logger = logging.getLogger(__name__)
 
 def gogo(exp_name='n_500_d_5_e_3_ER'):
@@ -60,7 +60,7 @@ def gogo(exp_name='n_500_d_5_e_3_ER'):
 
 
     # Setup for logging
-    output_dir = 'output/gnd/{}'.format(exp_name)
+    output_dir = 'output/gndSF/{}'.format(exp_name)
     create_dir(output_dir)
 
     _logger.info('--- {} ---'.format(exp_name))

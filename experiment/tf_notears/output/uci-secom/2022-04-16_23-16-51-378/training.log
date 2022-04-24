@@ -1,0 +1,11 @@
+2022-04-16 10:16:51,378 INFO - helpers.log_helper - Finished configuring logger.
+2022-04-16 10:16:51,430 INFO - __main__ - Finished generating dataset
+2022-04-16 10:16:52,155 INFO - models.notears - Model summary:
+2022-04-16 10:16:52,156 INFO - models.notears - ---------
+2022-04-16 10:16:52,156 INFO - models.notears - Variables: name (type shape) [size]
+2022-04-16 10:16:52,157 INFO - models.notears - ---------
+2022-04-16 10:16:52,157 INFO - models.notears - Variable:0 (float32 592x592) [350464, bytes: 1401856]
+2022-04-16 10:16:52,157 INFO - models.notears - Total size of variables: 350464
+2022-04-16 10:16:52,158 INFO - models.notears - Total bytes of variables: 1401856
+2022-04-16 10:16:52,207 INFO - trainers.al_trainer - Started training for 20 iterations
+2022-04-16 10:16:52,207 INFO - trainers.al_trainer - rho 1.000E+00, alpha 0.000E+00

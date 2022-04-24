@@ -1,0 +1,27 @@
+digraph {
+	Smoking
+	Yellow_Fingers
+	Anxiety
+	Peer_Pressure
+	Genetics
+	Attention_Disorder
+	Born_an_Even_Day
+	Car_Accident
+	Fatigue
+	Allergy
+	Coughing
+	Lung_cancer
+	Yellow_Fingers -> Smoking [label=0.75]
+	Anxiety -> Yellow_Fingers [label=0.46]
+	Coughing -> Genetics [label=0.39]
+	Coughing -> Born_an_Even_Day [label=0.37]
+	Attention_Disorder -> Car_Accident [label=0.33]
+	Lung_cancer -> Car_Accident [label=0.43]
+	Car_Accident -> Fatigue [label=0.63]
+	Fatigue -> Coughing [label=0.66]
+	Allergy -> Coughing [label=0.41]
+	Smoking -> Lung_cancer [label=0.66]
+	{
+		rank=same
+	}
+}

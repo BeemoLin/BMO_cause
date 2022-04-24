@@ -1,0 +1,29 @@
+digraph {
+	"cement 水泥"
+	"slag 爐渣"
+	"ash 飛灰"
+	"water 水"
+	"superplastic 塑化劑/減水劑"
+	"coarseagg 粗碎石"
+	"fineagg 細碎石"
+	"age 放置天(1~365)"
+	"strength 抗壓強度(MPa)"
+	"slag 爐渣" -> "cement 水泥" [label=-0.46]
+	"strength 抗壓強度(MPa)" -> "cement 水泥" [label=3.30]
+	"strength 抗壓強度(MPa)" -> "slag 爐渣" [label=0.70]
+	"cement 水泥" -> "ash 飛灰" [label=-0.49]
+	"slag 爐渣" -> "ash 飛灰" [label=-0.50]
+	"strength 抗壓強度(MPa)" -> "ash 飛灰" [label=1.67]
+	"superplastic 塑化劑/減水劑" -> "water 水" [label=-1.19]
+	"strength 抗壓強度(MPa)" -> "coarseagg 粗碎石" [label=-0.60]
+	"cement 水泥" -> "fineagg 細碎石" [label=-0.75]
+	"slag 爐渣" -> "fineagg 細碎石" [label=-0.90]
+	"ash 飛灰" -> "fineagg 細碎石" [label=-0.80]
+	"coarseagg 粗碎石" -> "fineagg 細碎石" [label=-0.52]
+	"age 放置天(1~365)" -> "fineagg 細碎石" [label=-0.45]
+	"strength 抗壓強度(MPa)" -> "fineagg 細碎石" [label=2.01]
+	"strength 抗壓強度(MPa)" -> "age 放置天(1~365)" [label=1.52]
+	{
+		rank=same
+	}
+}

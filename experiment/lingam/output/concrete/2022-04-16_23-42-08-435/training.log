@@ -1,0 +1,7 @@
+2022-04-16 10:42:08,436 INFO - helpers.log_helper - Finished configuring logger.
+2022-04-16 10:42:08,503 INFO - __main__ - Thresholding.
+2022-04-16 10:42:08,507 INFO - __main__ - The time used to execute this is given below
+2022-04-16 10:42:08,507 INFO - __main__ - 0.9724292755126953
+2022-04-16 10:42:46,736 INFO - __main__ - Thresholding.
+2022-04-16 10:42:47,148 INFO - __main__ - The time used to execute this is given below
+2022-04-16 10:42:47,149 INFO - __main__ - 39.613683462142944

@@ -1,0 +1,52 @@
+2022-04-18 13:00:16,110 INFO - helpers.log_helper - Finished configuring logger.
+2022-04-18 13:00:16,113 INFO - __main__ - Finished generating dataset
+2022-04-18 13:00:16,880 INFO - models.notears - Model summary:
+2022-04-18 13:00:16,881 INFO - models.notears - ---------
+2022-04-18 13:00:16,881 INFO - models.notears - Variables: name (type shape) [size]
+2022-04-18 13:00:16,882 INFO - models.notears - ---------
+2022-04-18 13:00:16,882 INFO - models.notears - Variable:0 (float32 10x10) [100, bytes: 400]
+2022-04-18 13:00:16,883 INFO - models.notears - Total size of variables: 100
+2022-04-18 13:00:16,883 INFO - models.notears - Total bytes of variables: 400
+2022-04-18 13:00:16,928 INFO - trainers.al_trainer - Started training for 20 iterations
+2022-04-18 13:00:16,929 INFO - trainers.al_trainer - rho 1.000E+00, alpha 0.000E+00
+2022-04-18 13:00:20,415 INFO - trainers.al_trainer - [Iter 1] loss 1.977E+03, mse 4.144E+06, acyclic 1.511E-01, shd 27, tpr 0.095, fdr 0.882, pred_size 17
+2022-04-18 13:00:20,417 INFO - trainers.al_trainer - rho 1.000E+00, alpha 1.511E-01
+2022-04-18 13:00:23,450 INFO - trainers.al_trainer - rho 1.000E+01, alpha 1.511E-01
+2022-04-18 13:00:26,701 INFO - trainers.al_trainer - rho 1.000E+02, alpha 1.511E-01
+2022-04-18 13:00:30,170 INFO - trainers.al_trainer - rho 1.000E+03, alpha 1.511E-01
+2022-04-18 13:00:33,892 INFO - trainers.al_trainer - rho 1.000E+04, alpha 1.511E-01
+2022-04-18 13:00:37,814 INFO - trainers.al_trainer - [Iter 2] loss 8.424E+02, mse 1.759E+06, acyclic 2.417E-02, shd 30, tpr 0.286, fdr 0.812, pred_size 32
+2022-04-18 13:00:37,815 INFO - trainers.al_trainer - rho 1.000E+04, alpha 2.418E+02
+2022-04-18 13:00:41,823 INFO - trainers.al_trainer - rho 1.000E+05, alpha 2.418E+02
+2022-04-18 13:00:46,065 INFO - trainers.al_trainer - [Iter 3] loss 7.993E+02, mse 1.669E+06, acyclic 5.432E-03, shd 32, tpr 0.286, fdr 0.818, pred_size 33
+2022-04-18 13:00:46,066 INFO - trainers.al_trainer - rho 1.000E+05, alpha 7.850E+02
+2022-04-18 13:00:50,394 INFO - trainers.al_trainer - rho 1.000E+06, alpha 7.850E+02
+2022-04-18 13:00:54,759 INFO - trainers.al_trainer - rho 1.000E+07, alpha 7.850E+02
+2022-04-18 13:00:59,324 INFO - trainers.al_trainer - [Iter 4] loss 7.404E+02, mse 1.549E+06, acyclic 4.454E-04, shd 29, tpr 0.286, fdr 0.800, pred_size 30
+2022-04-18 13:00:59,325 INFO - trainers.al_trainer - rho 1.000E+07, alpha 5.239E+03
+2022-04-18 13:01:03,918 INFO - trainers.al_trainer - rho 1.000E+08, alpha 5.239E+03
+2022-04-18 13:01:08,528 INFO - trainers.al_trainer - rho 1.000E+09, alpha 5.239E+03
+2022-04-18 13:01:13,113 INFO - trainers.al_trainer - [Iter 5] loss 7.196E+02, mse 1.504E+06, acyclic 5.722E-05, shd 29, tpr 0.286, fdr 0.806, pred_size 31
+2022-04-18 13:01:13,114 INFO - trainers.al_trainer - rho 1.000E+09, alpha 6.246E+04
+2022-04-18 13:01:17,745 INFO - trainers.al_trainer - [Iter 6] loss 7.136E+02, mse 1.494E+06, acyclic 1.049E-05, shd 29, tpr 0.286, fdr 0.806, pred_size 31
+2022-04-18 13:01:17,746 INFO - trainers.al_trainer - rho 1.000E+09, alpha 7.295E+04
+2022-04-18 13:01:22,340 INFO - trainers.al_trainer - [Iter 7] loss 7.084E+02, mse 1.484E+06, acyclic 1.907E-06, shd 29, tpr 0.286, fdr 0.806, pred_size 31
+2022-04-18 13:01:22,341 INFO - trainers.al_trainer - rho 1.000E+09, alpha 7.486E+04
+2022-04-18 13:01:26,944 INFO - trainers.al_trainer - rho 1.000E+10, alpha 7.486E+04
+2022-04-18 13:01:31,541 INFO - trainers.al_trainer - rho 1.000E+11, alpha 7.486E+04
+2022-04-18 13:01:36,122 INFO - trainers.al_trainer - rho 1.000E+12, alpha 7.486E+04
+2022-04-18 13:01:40,733 INFO - trainers.al_trainer - rho 1.000E+13, alpha 7.486E+04
+2022-04-18 13:01:45,349 INFO - trainers.al_trainer - [Iter 8] loss 8.493E+02, mse 1.780E+06, acyclic 0.000E+00, shd 29, tpr 0.286, fdr 0.800, pred_size 30
+2022-04-18 13:01:45,350 INFO - trainers.al_trainer - Early stopping at 8-th iteration
+2022-04-18 13:01:45,391 INFO - trainers.al_trainer - Model saved to output/skab_less_water/2022-04-19_02-00-16-110/model/
+2022-04-18 13:01:45,393 INFO - __main__ - Finished training model
+2022-04-18 13:01:45,749 INFO - __main__ - Results: {'fdr': 0.7666666666666667, 'tpr': 1.0, 'fpr': 2.875, 'shd': 45, 'pred_size': 90}
+2022-04-18 13:01:46,067 INFO - __main__ - Results after thresholding by 0.3: {'fdr': 0.8, 'tpr': 0.2857142857142857, 'fpr': 1.0, 'shd': 29, 'pred_size': 30}
+2022-04-18 13:01:46,071 INFO - __main__ - The time used to execute this is given below
+2022-04-18 13:01:46,072 INFO - __main__ - 91.54729318618774
+2022-04-18 13:03:28,353 WARNING - matplotlib.font_manager - findfont: Font family ['sans-serif'] not found. Falling back to DejaVu Sans.
+2022-04-18 13:03:28,359 WARNING - matplotlib.font_manager - findfont: Font family ['sans-serif'] not found. Falling back to DejaVu Sans.
+2022-04-18 13:03:28,581 INFO - __main__ - Results: {'fdr': 0.7666666666666667, 'tpr': 1.0, 'fpr': 2.875, 'shd': 45, 'pred_size': 90}
+2022-04-18 13:03:28,894 INFO - __main__ - Results after thresholding by 0.3: {'fdr': 0.8, 'tpr': 0.2857142857142857, 'fpr': 1.0, 'shd': 29, 'pred_size': 30}
+2022-04-18 13:03:29,044 INFO - __main__ - The time used to execute this is given below
+2022-04-18 13:03:29,048 INFO - __main__ - 194.5203766822815
