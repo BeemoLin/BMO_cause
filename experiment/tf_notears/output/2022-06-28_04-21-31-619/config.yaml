@@ -1,0 +1,5 @@
+!!python/object:helpers.config_utils.TrainArgs
+d: 212
+graph_thres: 5
+max_iter: 2
+n: 2491

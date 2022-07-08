@@ -1,0 +1,300 @@
+2022-06-26 23:24:51,852 INFO - helpers.log_helper - Finished configuring logger.
+2022-06-26 23:24:51,862 INFO - __main__ - Finished generating dataset
+2022-06-26 23:29:25,580 INFO - models.notears - Model summary:
+2022-06-26 23:29:25,580 INFO - models.notears - ---------
+2022-06-26 23:29:25,581 INFO - models.notears - Variables: name (type shape) [size]
+2022-06-26 23:29:25,581 INFO - models.notears - ---------
+2022-06-26 23:29:25,581 INFO - models.notears - Variable:0 (float32 213x213) [45369, bytes: 181476]
+2022-06-26 23:29:25,582 INFO - models.notears - Total size of variables: 45369
+2022-06-26 23:29:25,582 INFO - models.notears - Total bytes of variables: 181476
+2022-06-26 23:29:33,318 INFO - trainers.al_trainer - Started training for 20 iterations
+2022-06-26 23:29:33,319 INFO - trainers.al_trainer - rho 1.000E+00, alpha 0.000E+00
+2022-06-26 23:29:45,751 INFO - trainers.al_trainer - [Iter 1] loss NAN, mse NAN, acyclic NAN, shd 22806, tpr 1.000, fdr 0.997, pred_size 45156
+2022-06-26 23:29:45,752 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-06-26 23:29:56,960 INFO - trainers.al_trainer - [Iter 2] loss NAN, mse NAN, acyclic NAN, shd 22806, tpr 1.000, fdr 0.997, pred_size 45156
+2022-06-26 23:29:56,962 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-06-26 23:30:08,115 INFO - trainers.al_trainer - [Iter 3] loss NAN, mse NAN, acyclic NAN, shd 22806, tpr 1.000, fdr 0.997, pred_size 45156
+2022-06-26 23:30:08,116 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-06-26 23:30:19,342 INFO - trainers.al_trainer - [Iter 4] loss NAN, mse NAN, acyclic NAN, shd 22806, tpr 1.000, fdr 0.997, pred_size 45156
+2022-06-26 23:30:19,343 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-06-26 23:30:30,532 INFO - trainers.al_trainer - [Iter 5] loss NAN, mse NAN, acyclic NAN, shd 22806, tpr 1.000, fdr 0.997, pred_size 45156
+2022-06-26 23:30:30,533 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-06-26 23:30:41,706 INFO - trainers.al_trainer - [Iter 6] loss NAN, mse NAN, acyclic NAN, shd 22806, tpr 1.000, fdr 0.997, pred_size 45156
+2022-06-26 23:30:41,707 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-06-26 23:30:52,892 INFO - trainers.al_trainer - [Iter 7] loss NAN, mse NAN, acyclic NAN, shd 22806, tpr 1.000, fdr 0.997, pred_size 45156
+2022-06-26 23:30:52,893 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-06-26 23:31:04,067 INFO - trainers.al_trainer - [Iter 8] loss NAN, mse NAN, acyclic NAN, shd 22806, tpr 1.000, fdr 0.997, pred_size 45156
+2022-06-26 23:31:04,069 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-06-26 23:31:15,240 INFO - trainers.al_trainer - [Iter 9] loss NAN, mse NAN, acyclic NAN, shd 22806, tpr 1.000, fdr 0.997, pred_size 45156
+2022-06-26 23:31:15,241 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-06-26 23:31:26,412 INFO - trainers.al_trainer - [Iter 10] loss NAN, mse NAN, acyclic NAN, shd 22806, tpr 1.000, fdr 0.997, pred_size 45156
+2022-06-26 23:31:26,413 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-06-26 23:31:37,602 INFO - trainers.al_trainer - [Iter 11] loss NAN, mse NAN, acyclic NAN, shd 22806, tpr 1.000, fdr 0.997, pred_size 45156
+2022-06-26 23:31:37,603 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-06-26 23:31:48,805 INFO - trainers.al_trainer - [Iter 12] loss NAN, mse NAN, acyclic NAN, shd 22806, tpr 1.000, fdr 0.997, pred_size 45156
+2022-06-26 23:31:48,806 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-06-26 23:31:59,992 INFO - trainers.al_trainer - [Iter 13] loss NAN, mse NAN, acyclic NAN, shd 22806, tpr 1.000, fdr 0.997, pred_size 45156
+2022-06-26 23:31:59,993 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-06-26 23:32:11,148 INFO - trainers.al_trainer - [Iter 14] loss NAN, mse NAN, acyclic NAN, shd 22806, tpr 1.000, fdr 0.997, pred_size 45156
+2022-06-26 23:32:11,149 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-06-26 23:32:22,412 INFO - trainers.al_trainer - [Iter 15] loss NAN, mse NAN, acyclic NAN, shd 22806, tpr 1.000, fdr 0.997, pred_size 45156
+2022-06-26 23:32:22,413 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-06-26 23:32:33,567 INFO - trainers.al_trainer - [Iter 16] loss NAN, mse NAN, acyclic NAN, shd 22806, tpr 1.000, fdr 0.997, pred_size 45156
+2022-06-26 23:32:33,568 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-06-26 23:32:44,733 INFO - trainers.al_trainer - [Iter 17] loss NAN, mse NAN, acyclic NAN, shd 22806, tpr 1.000, fdr 0.997, pred_size 45156
+2022-06-26 23:32:44,739 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-06-26 23:32:55,906 INFO - trainers.al_trainer - [Iter 18] loss NAN, mse NAN, acyclic NAN, shd 22806, tpr 1.000, fdr 0.997, pred_size 45156
+2022-06-26 23:32:55,907 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-06-26 23:33:07,068 INFO - trainers.al_trainer - [Iter 19] loss NAN, mse NAN, acyclic NAN, shd 22806, tpr 1.000, fdr 0.997, pred_size 45156
+2022-06-26 23:33:07,070 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-06-26 23:33:18,221 INFO - trainers.al_trainer - [Iter 20] loss NAN, mse NAN, acyclic NAN, shd 22806, tpr 1.000, fdr 0.997, pred_size 45156
+2022-06-26 23:33:18,266 INFO - trainers.al_trainer - Model saved to output/2022-06-26_23-24-51-852/model/
+2022-06-26 23:33:18,268 INFO - __main__ - Finished training model
+2022-06-26 23:33:18,675 INFO - __main__ - Thresholding.
+2022-06-26 23:33:19,039 INFO - __main__ - Results after thresholding by 0.5: {'fdr': 0.99732040038976, 'tpr': 1.0, 'fpr': 2.005388074987754, 'shd': 22806, 'pred_size': 45156}
+2022-06-26 23:33:59,914 INFO - trainers.al_trainer - Started training for 20 iterations
+2022-06-26 23:33:59,914 INFO - trainers.al_trainer - rho 1.000E+00, alpha 0.000E+00
+2022-06-26 23:34:11,523 INFO - trainers.al_trainer - [Iter 1] loss NAN, mse NAN, acyclic NAN, shd 22806, tpr 1.000, fdr 0.997, pred_size 45156
+2022-06-26 23:34:11,524 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-06-26 23:34:23,173 INFO - trainers.al_trainer - [Iter 2] loss NAN, mse NAN, acyclic NAN, shd 22806, tpr 1.000, fdr 0.997, pred_size 45156
+2022-06-26 23:34:23,174 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-06-26 23:34:34,796 INFO - trainers.al_trainer - [Iter 3] loss NAN, mse NAN, acyclic NAN, shd 22806, tpr 1.000, fdr 0.997, pred_size 45156
+2022-06-26 23:34:34,797 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-06-26 23:34:46,364 INFO - trainers.al_trainer - [Iter 4] loss NAN, mse NAN, acyclic NAN, shd 22806, tpr 1.000, fdr 0.997, pred_size 45156
+2022-06-26 23:34:46,366 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-06-26 23:34:57,994 INFO - trainers.al_trainer - [Iter 5] loss NAN, mse NAN, acyclic NAN, shd 22806, tpr 1.000, fdr 0.997, pred_size 45156
+2022-06-26 23:34:57,995 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-06-26 23:35:09,565 INFO - trainers.al_trainer - [Iter 6] loss NAN, mse NAN, acyclic NAN, shd 22806, tpr 1.000, fdr 0.997, pred_size 45156
+2022-06-26 23:35:09,566 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-06-26 23:35:21,176 INFO - trainers.al_trainer - [Iter 7] loss NAN, mse NAN, acyclic NAN, shd 22806, tpr 1.000, fdr 0.997, pred_size 45156
+2022-06-26 23:35:21,177 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-06-26 23:35:32,719 INFO - trainers.al_trainer - [Iter 8] loss NAN, mse NAN, acyclic NAN, shd 22806, tpr 1.000, fdr 0.997, pred_size 45156
+2022-06-26 23:35:32,720 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-06-26 23:35:44,298 INFO - trainers.al_trainer - [Iter 9] loss NAN, mse NAN, acyclic NAN, shd 22806, tpr 1.000, fdr 0.997, pred_size 45156
+2022-06-26 23:35:44,300 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-06-26 23:35:55,931 INFO - trainers.al_trainer - [Iter 10] loss NAN, mse NAN, acyclic NAN, shd 22806, tpr 1.000, fdr 0.997, pred_size 45156
+2022-06-26 23:35:55,932 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-06-26 23:36:07,509 INFO - trainers.al_trainer - [Iter 11] loss NAN, mse NAN, acyclic NAN, shd 22806, tpr 1.000, fdr 0.997, pred_size 45156
+2022-06-26 23:36:07,510 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-06-26 23:36:19,092 INFO - trainers.al_trainer - [Iter 12] loss NAN, mse NAN, acyclic NAN, shd 22806, tpr 1.000, fdr 0.997, pred_size 45156
+2022-06-26 23:36:19,094 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-06-26 23:36:30,677 INFO - trainers.al_trainer - [Iter 13] loss NAN, mse NAN, acyclic NAN, shd 22806, tpr 1.000, fdr 0.997, pred_size 45156
+2022-06-26 23:36:30,678 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-06-26 23:36:42,255 INFO - trainers.al_trainer - [Iter 14] loss NAN, mse NAN, acyclic NAN, shd 22806, tpr 1.000, fdr 0.997, pred_size 45156
+2022-06-26 23:36:42,256 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-06-26 23:36:53,880 INFO - trainers.al_trainer - [Iter 15] loss NAN, mse NAN, acyclic NAN, shd 22806, tpr 1.000, fdr 0.997, pred_size 45156
+2022-06-26 23:36:53,882 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-06-26 23:37:05,451 INFO - trainers.al_trainer - [Iter 16] loss NAN, mse NAN, acyclic NAN, shd 22806, tpr 1.000, fdr 0.997, pred_size 45156
+2022-06-26 23:37:05,452 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-06-26 23:37:17,077 INFO - trainers.al_trainer - [Iter 17] loss NAN, mse NAN, acyclic NAN, shd 22806, tpr 1.000, fdr 0.997, pred_size 45156
+2022-06-26 23:37:17,078 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-06-26 23:37:28,704 INFO - trainers.al_trainer - [Iter 18] loss NAN, mse NAN, acyclic NAN, shd 22806, tpr 1.000, fdr 0.997, pred_size 45156
+2022-06-26 23:37:28,705 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-06-26 23:37:40,286 INFO - trainers.al_trainer - [Iter 19] loss NAN, mse NAN, acyclic NAN, shd 22806, tpr 1.000, fdr 0.997, pred_size 45156
+2022-06-26 23:37:40,287 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-06-26 23:37:51,887 INFO - trainers.al_trainer - [Iter 20] loss NAN, mse NAN, acyclic NAN, shd 22806, tpr 1.000, fdr 0.997, pred_size 45156
+2022-06-26 23:37:51,922 INFO - trainers.al_trainer - Model saved to output/2022-06-26_23-24-51-852/model/
+2022-06-26 23:37:51,923 INFO - __main__ - Finished training model
+2022-06-27 00:01:58,735 INFO - __main__ - Thresholding.
+2022-06-27 00:01:59,073 INFO - __main__ - Results after thresholding by 0.5: {'fdr': 0.99732040038976, 'tpr': 1.0, 'fpr': 2.005388074987754, 'shd': 22806, 'pred_size': 45156}
+2022-06-27 00:02:45,626 INFO - models.notears - Model summary:
+2022-06-27 00:02:45,626 INFO - models.notears - ---------
+2022-06-27 00:02:45,627 INFO - models.notears - Variables: name (type shape) [size]
+2022-06-27 00:02:45,627 INFO - models.notears - ---------
+2022-06-27 00:02:45,628 INFO - models.notears - Variable:0 (float32 213x213) [45369, bytes: 181476]
+2022-06-27 00:02:45,628 INFO - models.notears - Total size of variables: 45369
+2022-06-27 00:02:45,628 INFO - models.notears - Total bytes of variables: 181476
+2022-06-27 00:03:13,213 INFO - helpers.log_helper - Finished configuring logger.
+2022-06-27 00:03:13,280 INFO - __main__ - Finished generating dataset
+2022-06-27 00:03:24,496 INFO - models.notears - Model summary:
+2022-06-27 00:03:24,497 INFO - models.notears - ---------
+2022-06-27 00:03:24,497 INFO - models.notears - Variables: name (type shape) [size]
+2022-06-27 00:03:24,498 INFO - models.notears - ---------
+2022-06-27 00:03:24,499 INFO - models.notears - Variable:0 (float32 213x213) [45369, bytes: 181476]
+2022-06-27 00:03:24,499 INFO - models.notears - Total size of variables: 45369
+2022-06-27 00:03:24,500 INFO - models.notears - Total bytes of variables: 181476
+2022-06-27 00:03:27,843 INFO - trainers.al_trainer - Started training for 20 iterations
+2022-06-27 00:03:27,844 INFO - trainers.al_trainer - rho 1.000E+00, alpha 0.000E+00
+2022-06-27 00:03:39,439 INFO - trainers.al_trainer - [Iter 1] loss NAN, mse NAN, acyclic NAN, shd 22578, tpr 1.000, fdr 0.991, pred_size 45156
+2022-06-27 00:03:39,441 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-06-27 00:03:50,909 INFO - trainers.al_trainer - [Iter 2] loss NAN, mse NAN, acyclic NAN, shd 22578, tpr 1.000, fdr 0.991, pred_size 45156
+2022-06-27 00:03:50,910 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-06-27 00:04:02,424 INFO - trainers.al_trainer - [Iter 3] loss NAN, mse NAN, acyclic NAN, shd 22578, tpr 1.000, fdr 0.991, pred_size 45156
+2022-06-27 00:04:02,426 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-06-27 00:04:13,912 INFO - trainers.al_trainer - [Iter 4] loss NAN, mse NAN, acyclic NAN, shd 22578, tpr 1.000, fdr 0.991, pred_size 45156
+2022-06-27 00:04:13,914 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-06-27 00:04:25,417 INFO - trainers.al_trainer - [Iter 5] loss NAN, mse NAN, acyclic NAN, shd 22578, tpr 1.000, fdr 0.991, pred_size 45156
+2022-06-27 00:04:25,418 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-06-27 00:04:36,918 INFO - trainers.al_trainer - [Iter 6] loss NAN, mse NAN, acyclic NAN, shd 22578, tpr 1.000, fdr 0.991, pred_size 45156
+2022-06-27 00:04:36,920 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-06-27 00:04:48,382 INFO - trainers.al_trainer - [Iter 7] loss NAN, mse NAN, acyclic NAN, shd 22578, tpr 1.000, fdr 0.991, pred_size 45156
+2022-06-27 00:04:48,383 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-06-27 00:04:59,855 INFO - trainers.al_trainer - [Iter 8] loss NAN, mse NAN, acyclic NAN, shd 22578, tpr 1.000, fdr 0.991, pred_size 45156
+2022-06-27 00:04:59,857 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-06-27 00:05:11,350 INFO - trainers.al_trainer - [Iter 9] loss NAN, mse NAN, acyclic NAN, shd 22578, tpr 1.000, fdr 0.991, pred_size 45156
+2022-06-27 00:05:11,351 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-06-27 00:05:22,564 INFO - trainers.al_trainer - [Iter 10] loss NAN, mse NAN, acyclic NAN, shd 22578, tpr 1.000, fdr 0.991, pred_size 45156
+2022-06-27 00:05:22,566 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-06-27 00:05:34,062 INFO - trainers.al_trainer - [Iter 11] loss NAN, mse NAN, acyclic NAN, shd 22578, tpr 1.000, fdr 0.991, pred_size 45156
+2022-06-27 00:05:34,064 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-06-27 00:05:45,545 INFO - trainers.al_trainer - [Iter 12] loss NAN, mse NAN, acyclic NAN, shd 22578, tpr 1.000, fdr 0.991, pred_size 45156
+2022-06-27 00:05:45,546 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-06-27 00:05:57,065 INFO - trainers.al_trainer - [Iter 13] loss NAN, mse NAN, acyclic NAN, shd 22578, tpr 1.000, fdr 0.991, pred_size 45156
+2022-06-27 00:05:57,066 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-06-27 00:06:08,573 INFO - trainers.al_trainer - [Iter 14] loss NAN, mse NAN, acyclic NAN, shd 22578, tpr 1.000, fdr 0.991, pred_size 45156
+2022-06-27 00:06:08,575 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-06-27 00:06:20,066 INFO - trainers.al_trainer - [Iter 15] loss NAN, mse NAN, acyclic NAN, shd 22578, tpr 1.000, fdr 0.991, pred_size 45156
+2022-06-27 00:06:20,068 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-06-27 00:06:31,594 INFO - trainers.al_trainer - [Iter 16] loss NAN, mse NAN, acyclic NAN, shd 22578, tpr 1.000, fdr 0.991, pred_size 45156
+2022-06-27 00:06:31,596 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-06-27 00:06:43,075 INFO - trainers.al_trainer - [Iter 17] loss NAN, mse NAN, acyclic NAN, shd 22578, tpr 1.000, fdr 0.991, pred_size 45156
+2022-06-27 00:06:43,077 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-06-27 00:06:54,523 INFO - trainers.al_trainer - [Iter 18] loss NAN, mse NAN, acyclic NAN, shd 22578, tpr 1.000, fdr 0.991, pred_size 45156
+2022-06-27 00:06:54,525 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-06-27 00:07:05,823 INFO - trainers.al_trainer - [Iter 19] loss NAN, mse NAN, acyclic NAN, shd 22578, tpr 1.000, fdr 0.991, pred_size 45156
+2022-06-27 00:07:05,825 INFO - trainers.al_trainer - rho 1.000E+00, alpha NAN
+2022-06-27 00:07:17,424 INFO - trainers.al_trainer - [Iter 20] loss NAN, mse NAN, acyclic NAN, shd 22578, tpr 1.000, fdr 0.991, pred_size 45156
+2022-06-27 00:07:17,469 INFO - trainers.al_trainer - Model saved to output/2022-06-27_00-03-13-212/model/
+2022-06-27 00:07:17,471 INFO - __main__ - Finished training model
+2022-06-27 00:08:34,936 INFO - __main__ - Thresholding.
+2022-06-27 00:08:35,271 INFO - __main__ - Results after thresholding by 0.5: {'fdr': 0.990853928603065, 'tpr': 1.0, 'fpr': 2.0186329799233027, 'shd': 22578, 'pred_size': 45156}
+2022-06-27 00:08:40,190 INFO - __main__ - Thresholding.
+2022-06-27 00:08:40,521 INFO - __main__ - Results after thresholding by 0.1: {'fdr': 0.990853928603065, 'tpr': 1.0, 'fpr': 2.0186329799233027, 'shd': 22578, 'pred_size': 45156}
+2022-06-27 00:11:33,314 INFO - helpers.log_helper - Finished configuring logger.
+2022-06-27 00:11:33,361 INFO - __main__ - Finished generating dataset
+2022-06-27 00:11:45,969 INFO - models.notears - Model summary:
+2022-06-27 00:11:45,971 INFO - models.notears - ---------
+2022-06-27 00:11:45,972 INFO - models.notears - Variables: name (type shape) [size]
+2022-06-27 00:11:45,973 INFO - models.notears - ---------
+2022-06-27 00:11:45,974 INFO - models.notears - Variable:0 (float32 213x213) [45369, bytes: 181476]
+2022-06-27 00:11:45,975 INFO - models.notears - Total size of variables: 45369
+2022-06-27 00:11:45,976 INFO - models.notears - Total bytes of variables: 181476
+2022-06-27 00:11:49,316 INFO - trainers.al_trainer - Started training for 20 iterations
+2022-06-27 00:11:49,318 INFO - trainers.al_trainer - rho 1.000E+00, alpha 0.000E+00
+2022-06-27 01:00:27,342 INFO - models.notears - Model summary:
+2022-06-27 01:00:27,343 INFO - models.notears - ---------
+2022-06-27 01:00:27,344 INFO - models.notears - Variables: name (type shape) [size]
+2022-06-27 01:00:27,345 INFO - models.notears - ---------
+2022-06-27 01:00:27,346 INFO - models.notears - Variable:0 (float32 213x213) [45369, bytes: 181476]
+2022-06-27 01:00:27,347 INFO - models.notears - Total size of variables: 45369
+2022-06-27 01:00:27,348 INFO - models.notears - Total bytes of variables: 181476
+2022-06-27 01:00:30,233 INFO - trainers.al_trainer - Started training for 20 iterations
+2022-06-27 01:00:30,234 INFO - trainers.al_trainer - rho 1.000E+00, alpha 0.000E+00
+2022-06-27 01:00:38,608 INFO - trainers.al_trainer - [Iter 1] loss 1.513E+14, mse 7.540E+17, acyclic 1.124E+00, shd 6750, tpr 0.140, fdr 0.991, pred_size 6588
+2022-06-27 01:00:38,610 INFO - trainers.al_trainer - rho 1.000E+00, alpha 1.124E+00
+2022-06-27 01:00:47,920 INFO - trainers.al_trainer - rho 1.000E+01, alpha 1.124E+00
+2022-06-27 01:00:57,823 INFO - trainers.al_trainer - rho 1.000E+02, alpha 1.124E+00
+2022-06-27 01:01:08,076 INFO - trainers.al_trainer - rho 1.000E+03, alpha 1.124E+00
+2022-06-27 01:01:18,688 INFO - trainers.al_trainer - rho 1.000E+04, alpha 1.124E+00
+2022-06-27 01:01:29,541 INFO - trainers.al_trainer - rho 1.000E+05, alpha 1.124E+00
+2022-06-27 01:01:40,570 INFO - trainers.al_trainer - rho 1.000E+06, alpha 1.124E+00
+2022-06-27 01:01:51,814 INFO - trainers.al_trainer - rho 1.000E+07, alpha 1.124E+00
+2022-06-27 01:02:03,191 INFO - trainers.al_trainer - rho 1.000E+08, alpha 1.124E+00
+2022-06-27 01:02:14,531 INFO - trainers.al_trainer - rho 1.000E+09, alpha 1.124E+00
+2022-06-27 01:02:26,022 INFO - trainers.al_trainer - rho 1.000E+10, alpha 1.124E+00
+2022-06-27 01:02:37,361 INFO - trainers.al_trainer - rho 1.000E+11, alpha 1.124E+00
+2022-06-27 01:02:48,726 INFO - trainers.al_trainer - rho 1.000E+12, alpha 1.124E+00
+2022-06-27 01:03:00,071 INFO - trainers.al_trainer - rho 1.000E+13, alpha 1.124E+00
+2022-06-27 01:03:11,459 INFO - trainers.al_trainer - [Iter 2] loss 1.203E+14, mse 5.975E+17, acyclic 2.635E-01, shd 7607, tpr 0.160, fdr 0.991, pred_size 7410
+2022-06-27 01:03:11,461 INFO - trainers.al_trainer - rho 1.000E+13, alpha 2.635E+12
+2022-06-27 01:03:23,084 INFO - trainers.al_trainer - rho 1.000E+14, alpha 2.635E+12
+2022-06-27 01:03:34,726 INFO - trainers.al_trainer - rho 1.000E+15, alpha 2.635E+12
+2022-06-27 01:03:39,821 INFO - trainers.al_trainer - [Iter 3] loss NAN, mse NAN, acyclic NAN, shd 22578, tpr 1.000, fdr 0.991, pred_size 45156
+2022-06-27 01:03:39,823 INFO - trainers.al_trainer - rho 1.000E+15, alpha NAN
+2022-06-27 01:03:44,969 INFO - trainers.al_trainer - [Iter 4] loss NAN, mse NAN, acyclic NAN, shd 22578, tpr 1.000, fdr 0.991, pred_size 45156
+2022-06-27 01:03:44,971 INFO - trainers.al_trainer - rho 1.000E+15, alpha NAN
+2022-06-27 01:03:50,075 INFO - trainers.al_trainer - [Iter 5] loss NAN, mse NAN, acyclic NAN, shd 22578, tpr 1.000, fdr 0.991, pred_size 45156
+2022-06-27 01:03:50,077 INFO - trainers.al_trainer - rho 1.000E+15, alpha NAN
+2022-06-27 01:03:55,143 INFO - trainers.al_trainer - [Iter 6] loss NAN, mse NAN, acyclic NAN, shd 22578, tpr 1.000, fdr 0.991, pred_size 45156
+2022-06-27 01:03:55,151 INFO - trainers.al_trainer - rho 1.000E+15, alpha NAN
+2022-06-27 01:04:00,297 INFO - trainers.al_trainer - [Iter 7] loss NAN, mse NAN, acyclic NAN, shd 22578, tpr 1.000, fdr 0.991, pred_size 45156
+2022-06-27 01:04:00,299 INFO - trainers.al_trainer - rho 1.000E+15, alpha NAN
+2022-06-27 01:04:05,407 INFO - trainers.al_trainer - [Iter 8] loss NAN, mse NAN, acyclic NAN, shd 22578, tpr 1.000, fdr 0.991, pred_size 45156
+2022-06-27 01:04:05,409 INFO - trainers.al_trainer - rho 1.000E+15, alpha NAN
+2022-06-27 01:04:10,506 INFO - trainers.al_trainer - [Iter 9] loss NAN, mse NAN, acyclic NAN, shd 22578, tpr 1.000, fdr 0.991, pred_size 45156
+2022-06-27 01:04:10,508 INFO - trainers.al_trainer - rho 1.000E+15, alpha NAN
+2022-06-27 01:04:15,180 INFO - trainers.al_trainer - [Iter 10] loss NAN, mse NAN, acyclic NAN, shd 22578, tpr 1.000, fdr 0.991, pred_size 45156
+2022-06-27 01:04:15,182 INFO - trainers.al_trainer - rho 1.000E+15, alpha NAN
+2022-06-27 01:04:20,302 INFO - trainers.al_trainer - [Iter 11] loss NAN, mse NAN, acyclic NAN, shd 22578, tpr 1.000, fdr 0.991, pred_size 45156
+2022-06-27 01:04:20,304 INFO - trainers.al_trainer - rho 1.000E+15, alpha NAN
+2022-06-27 01:04:25,357 INFO - trainers.al_trainer - [Iter 12] loss NAN, mse NAN, acyclic NAN, shd 22578, tpr 1.000, fdr 0.991, pred_size 45156
+2022-06-27 01:04:25,359 INFO - trainers.al_trainer - rho 1.000E+15, alpha NAN
+2022-06-27 01:04:30,462 INFO - trainers.al_trainer - [Iter 13] loss NAN, mse NAN, acyclic NAN, shd 22578, tpr 1.000, fdr 0.991, pred_size 45156
+2022-06-27 01:04:30,464 INFO - trainers.al_trainer - rho 1.000E+15, alpha NAN
+2022-06-27 01:04:35,577 INFO - trainers.al_trainer - [Iter 14] loss NAN, mse NAN, acyclic NAN, shd 22578, tpr 1.000, fdr 0.991, pred_size 45156
+2022-06-27 01:04:35,579 INFO - trainers.al_trainer - rho 1.000E+15, alpha NAN
+2022-06-27 01:04:40,671 INFO - trainers.al_trainer - [Iter 15] loss NAN, mse NAN, acyclic NAN, shd 22578, tpr 1.000, fdr 0.991, pred_size 45156
+2022-06-27 01:04:40,673 INFO - trainers.al_trainer - rho 1.000E+15, alpha NAN
+2022-06-27 01:04:45,775 INFO - trainers.al_trainer - [Iter 16] loss NAN, mse NAN, acyclic NAN, shd 22578, tpr 1.000, fdr 0.991, pred_size 45156
+2022-06-27 01:04:45,776 INFO - trainers.al_trainer - rho 1.000E+15, alpha NAN
+2022-06-27 01:04:50,904 INFO - trainers.al_trainer - [Iter 17] loss NAN, mse NAN, acyclic NAN, shd 22578, tpr 1.000, fdr 0.991, pred_size 45156
+2022-06-27 01:04:50,906 INFO - trainers.al_trainer - rho 1.000E+15, alpha NAN
+2022-06-27 01:04:55,946 INFO - trainers.al_trainer - [Iter 18] loss NAN, mse NAN, acyclic NAN, shd 22578, tpr 1.000, fdr 0.991, pred_size 45156
+2022-06-27 01:04:55,954 INFO - trainers.al_trainer - rho 1.000E+15, alpha NAN
+2022-06-27 01:05:01,089 INFO - trainers.al_trainer - [Iter 19] loss NAN, mse NAN, acyclic NAN, shd 22578, tpr 1.000, fdr 0.991, pred_size 45156
+2022-06-27 01:05:01,091 INFO - trainers.al_trainer - rho 1.000E+15, alpha NAN
+2022-06-27 01:05:06,169 INFO - trainers.al_trainer - [Iter 20] loss NAN, mse NAN, acyclic NAN, shd 22578, tpr 1.000, fdr 0.991, pred_size 45156
+2022-06-27 01:05:06,215 INFO - trainers.al_trainer - Model saved to output/2022-06-27_00-11-33-313/model/
+2022-06-27 01:05:06,217 INFO - __main__ - Finished training model
+2022-06-27 01:05:06,562 INFO - __main__ - Thresholding.
+2022-06-27 01:05:06,896 INFO - __main__ - Results after thresholding by 0.1: {'fdr': 0.990853928603065, 'tpr': 1.0, 'fpr': 2.0186329799233027, 'shd': 22578, 'pred_size': 45156}
+2022-06-27 01:23:48,125 INFO - trainers.al_trainer - Started training for 20 iterations
+2022-06-27 01:23:48,126 INFO - trainers.al_trainer - rho 1.000E+00, alpha 0.000E+00
+2022-06-27 01:23:56,418 INFO - trainers.al_trainer - [Iter 1] loss 1.513E+14, mse 7.540E+17, acyclic 1.124E+00, shd 6750, tpr 0.140, fdr 0.991, pred_size 6588
+2022-06-27 01:23:56,420 INFO - trainers.al_trainer - rho 1.000E+00, alpha 1.124E+00
+2022-06-27 01:24:05,841 INFO - trainers.al_trainer - rho 1.000E+01, alpha 1.124E+00
+2022-06-27 01:24:15,764 INFO - trainers.al_trainer - rho 1.000E+02, alpha 1.124E+00
+2022-06-27 01:24:26,007 INFO - trainers.al_trainer - rho 1.000E+03, alpha 1.124E+00
+2022-06-27 01:24:36,566 INFO - trainers.al_trainer - rho 1.000E+04, alpha 1.124E+00
+2022-06-27 01:24:47,438 INFO - trainers.al_trainer - rho 1.000E+05, alpha 1.124E+00
+2022-06-27 01:24:58,446 INFO - trainers.al_trainer - rho 1.000E+06, alpha 1.124E+00
+2022-06-27 01:25:09,696 INFO - trainers.al_trainer - rho 1.000E+07, alpha 1.124E+00
+2022-06-27 01:25:21,054 INFO - trainers.al_trainer - rho 1.000E+08, alpha 1.124E+00
+2022-06-27 01:25:32,399 INFO - trainers.al_trainer - rho 1.000E+09, alpha 1.124E+00
+2022-06-27 01:25:43,762 INFO - trainers.al_trainer - rho 1.000E+10, alpha 1.124E+00
+2022-06-27 01:25:55,137 INFO - trainers.al_trainer - rho 1.000E+11, alpha 1.124E+00
+2022-06-27 01:26:06,501 INFO - trainers.al_trainer - rho 1.000E+12, alpha 1.124E+00
+2022-06-27 01:26:17,890 INFO - trainers.al_trainer - rho 1.000E+13, alpha 1.124E+00
+2022-06-27 01:26:29,261 INFO - trainers.al_trainer - [Iter 2] loss 1.203E+14, mse 5.975E+17, acyclic 2.635E-01, shd 7607, tpr 0.160, fdr 0.991, pred_size 7410
+2022-06-27 01:26:29,263 INFO - trainers.al_trainer - rho 1.000E+13, alpha 2.635E+12
+2022-06-27 01:26:40,953 INFO - trainers.al_trainer - rho 1.000E+14, alpha 2.635E+12
+2022-06-27 01:26:52,674 INFO - trainers.al_trainer - rho 1.000E+15, alpha 2.635E+12
+2022-06-27 01:26:57,745 INFO - trainers.al_trainer - [Iter 3] loss NAN, mse NAN, acyclic NAN, shd 22578, tpr 1.000, fdr 0.991, pred_size 45156
+2022-06-27 01:26:57,746 INFO - trainers.al_trainer - rho 1.000E+15, alpha NAN
+2022-06-27 01:27:02,915 INFO - trainers.al_trainer - [Iter 4] loss NAN, mse NAN, acyclic NAN, shd 22578, tpr 1.000, fdr 0.991, pred_size 45156
+2022-06-27 01:27:02,917 INFO - trainers.al_trainer - rho 1.000E+15, alpha NAN
+2022-06-27 01:27:08,001 INFO - trainers.al_trainer - [Iter 5] loss NAN, mse NAN, acyclic NAN, shd 22578, tpr 1.000, fdr 0.991, pred_size 45156
+2022-06-27 01:27:08,003 INFO - trainers.al_trainer - rho 1.000E+15, alpha NAN
+2022-06-27 01:27:13,162 INFO - trainers.al_trainer - [Iter 6] loss NAN, mse NAN, acyclic NAN, shd 22578, tpr 1.000, fdr 0.991, pred_size 45156
+2022-06-27 01:27:13,164 INFO - trainers.al_trainer - rho 1.000E+15, alpha NAN
+2022-06-27 01:27:18,460 INFO - trainers.al_trainer - [Iter 7] loss NAN, mse NAN, acyclic NAN, shd 22578, tpr 1.000, fdr 0.991, pred_size 45156
+2022-06-27 01:27:18,461 INFO - trainers.al_trainer - rho 1.000E+15, alpha NAN
+2022-06-27 01:27:23,613 INFO - trainers.al_trainer - [Iter 8] loss NAN, mse NAN, acyclic NAN, shd 22578, tpr 1.000, fdr 0.991, pred_size 45156
+2022-06-27 01:27:23,615 INFO - trainers.al_trainer - rho 1.000E+15, alpha NAN
+2022-06-27 01:27:28,716 INFO - trainers.al_trainer - [Iter 9] loss NAN, mse NAN, acyclic NAN, shd 22578, tpr 1.000, fdr 0.991, pred_size 45156
+2022-06-27 01:27:28,718 INFO - trainers.al_trainer - rho 1.000E+15, alpha NAN
+2022-06-27 01:27:33,833 INFO - trainers.al_trainer - [Iter 10] loss NAN, mse NAN, acyclic NAN, shd 22578, tpr 1.000, fdr 0.991, pred_size 45156
+2022-06-27 01:27:33,835 INFO - trainers.al_trainer - rho 1.000E+15, alpha NAN
+2022-06-27 01:27:38,941 INFO - trainers.al_trainer - [Iter 11] loss NAN, mse NAN, acyclic NAN, shd 22578, tpr 1.000, fdr 0.991, pred_size 45156
+2022-06-27 01:27:38,943 INFO - trainers.al_trainer - rho 1.000E+15, alpha NAN
+2022-06-27 01:27:44,097 INFO - trainers.al_trainer - [Iter 12] loss NAN, mse NAN, acyclic NAN, shd 22578, tpr 1.000, fdr 0.991, pred_size 45156
+2022-06-27 01:27:44,105 INFO - trainers.al_trainer - rho 1.000E+15, alpha NAN
+2022-06-27 01:27:49,252 INFO - trainers.al_trainer - [Iter 13] loss NAN, mse NAN, acyclic NAN, shd 22578, tpr 1.000, fdr 0.991, pred_size 45156
+2022-06-27 01:27:49,254 INFO - trainers.al_trainer - rho 1.000E+15, alpha NAN
+2022-06-27 01:27:54,376 INFO - trainers.al_trainer - [Iter 14] loss NAN, mse NAN, acyclic NAN, shd 22578, tpr 1.000, fdr 0.991, pred_size 45156
+2022-06-27 01:27:54,378 INFO - trainers.al_trainer - rho 1.000E+15, alpha NAN
+2022-06-27 01:27:59,489 INFO - trainers.al_trainer - [Iter 15] loss NAN, mse NAN, acyclic NAN, shd 22578, tpr 1.000, fdr 0.991, pred_size 45156
+2022-06-27 01:27:59,491 INFO - trainers.al_trainer - rho 1.000E+15, alpha NAN
+2022-06-27 01:28:04,623 INFO - trainers.al_trainer - [Iter 16] loss NAN, mse NAN, acyclic NAN, shd 22578, tpr 1.000, fdr 0.991, pred_size 45156
+2022-06-27 01:28:04,625 INFO - trainers.al_trainer - rho 1.000E+15, alpha NAN
+2022-06-27 01:28:09,784 INFO - trainers.al_trainer - [Iter 17] loss NAN, mse NAN, acyclic NAN, shd 22578, tpr 1.000, fdr 0.991, pred_size 45156
+2022-06-27 01:28:09,786 INFO - trainers.al_trainer - rho 1.000E+15, alpha NAN
+2022-06-27 01:28:14,891 INFO - trainers.al_trainer - [Iter 18] loss NAN, mse NAN, acyclic NAN, shd 22578, tpr 1.000, fdr 0.991, pred_size 45156
+2022-06-27 01:28:14,899 INFO - trainers.al_trainer - rho 1.000E+15, alpha NAN
+2022-06-27 01:28:20,047 INFO - trainers.al_trainer - [Iter 19] loss NAN, mse NAN, acyclic NAN, shd 22578, tpr 1.000, fdr 0.991, pred_size 45156
+2022-06-27 01:28:20,049 INFO - trainers.al_trainer - rho 1.000E+15, alpha NAN
+2022-06-27 01:28:25,156 INFO - trainers.al_trainer - [Iter 20] loss NAN, mse NAN, acyclic NAN, shd 22578, tpr 1.000, fdr 0.991, pred_size 45156
+2022-06-27 01:28:25,197 INFO - trainers.al_trainer - Model saved to output/2022-06-27_00-11-33-313/model/
+2022-06-27 01:28:25,199 INFO - __main__ - Finished training model
+2022-06-27 01:28:25,549 INFO - __main__ - Thresholding.
+2022-06-27 01:28:25,879 INFO - __main__ - Results after thresholding by 0: {'fdr': 0.990853928603065, 'tpr': 1.0, 'fpr': 2.0186329799233027, 'shd': 22578, 'pred_size': 45156}

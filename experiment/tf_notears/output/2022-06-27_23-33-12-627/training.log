@@ -1,0 +1,20 @@
+2022-06-27 23:33:12,627 INFO - helpers.log_helper - Finished configuring logger.
+2022-06-27 23:33:12,630 INFO - __main__ - Finished generating dataset
+2022-06-27 23:33:13,697 INFO - models.notears - Model summary:
+2022-06-27 23:33:13,698 INFO - models.notears - ---------
+2022-06-27 23:33:13,698 INFO - models.notears - Variables: name (type shape) [size]
+2022-06-27 23:33:13,699 INFO - models.notears - ---------
+2022-06-27 23:33:13,699 INFO - models.notears - Variable:0 (float32 20x20) [400, bytes: 1600]
+2022-06-27 23:33:13,700 INFO - models.notears - Total size of variables: 400
+2022-06-27 23:33:13,700 INFO - models.notears - Total bytes of variables: 1600
+2022-06-27 23:33:13,749 INFO - trainers.al_trainer - Started training for 5 iterations
+2022-06-27 23:33:13,750 INFO - trainers.al_trainer - rho 1.000E+00, alpha 0.000E+00
+2022-06-27 23:36:44,936 INFO - helpers.log_helper - Finished configuring logger.
+2022-06-27 23:36:44,974 INFO - __main__ - Finished generating dataset
+2022-06-27 23:37:07,212 INFO - models.notears - Model summary:
+2022-06-27 23:37:07,213 INFO - models.notears - ---------
+2022-06-27 23:37:07,214 INFO - models.notears - Variables: name (type shape) [size]
+2022-06-27 23:37:07,215 INFO - models.notears - ---------
+2022-06-27 23:37:07,216 INFO - models.notears - Variable:0 (float32 213x213) [45369, bytes: 181476]
+2022-06-27 23:37:07,216 INFO - models.notears - Total size of variables: 45369
+2022-06-27 23:37:07,217 INFO - models.notears - Total bytes of variables: 181476

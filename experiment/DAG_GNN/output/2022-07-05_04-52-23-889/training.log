@@ -1,0 +1,16 @@
+2022-07-05 04:52:23,889 INFO - helpers.log_helper - Finished configuring logger.
+2022-07-05 04:52:23,893 INFO - __main__ - Finished generating dataset
+2022-07-05 05:03:02,198 INFO - helpers.log_helper - Finished configuring logger.
+2022-07-05 05:03:02,202 INFO - __main__ - Finished generating dataset
+2022-07-05 05:07:38,533 INFO - helpers.log_helper - Finished configuring logger.
+2022-07-05 05:07:38,538 INFO - __main__ - Finished generating dataset
+2022-07-05 05:16:35,704 INFO - helpers.log_helper - Finished configuring logger.
+2022-07-05 05:16:35,707 INFO - __main__ - Finished generating dataset
+2022-07-06 03:29:39,271 INFO - helpers.log_helper - Finished configuring logger.
+2022-07-06 03:29:43,423 INFO - helpers.log_helper - Finished configuring logger.
+2022-07-06 03:29:43,432 INFO - __main__ - Finished generating dataset
+2022-07-06 04:04:58,106 INFO - __main__ - Results: {'fdr': 1.0, 'tpr': 0.0, 'fpr': 0.06426169122357463, 'shd': 1602, 'pred_size': 1605}
+2022-07-06 04:09:22,058 INFO - helpers.log_helper - Finished configuring logger.
+2022-07-06 04:09:22,069 INFO - __main__ - Finished generating dataset
+2022-07-06 04:10:14,431 INFO - helpers.log_helper - Finished configuring logger.
+2022-07-06 04:10:14,438 INFO - __main__ - Finished generating dataset

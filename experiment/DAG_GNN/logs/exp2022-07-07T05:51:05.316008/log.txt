@@ -1,0 +1,12 @@
+Best Epoch: 0002
+Best Epoch: 0012
+Best Epoch: 0019
+Best Epoch: 0030
+Best Epoch: 0007
+Best Epoch: 0000
+Best Epoch: 0000
+Best Epoch: 0000
+Best Epoch: 0000
+Best Epoch: 0000
+Best Epoch: 0008
+Best Epoch: 0082

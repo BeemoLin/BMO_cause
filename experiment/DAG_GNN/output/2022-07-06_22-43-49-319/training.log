@@ -1,0 +1,3 @@
+2022-07-06 22:43:49,319 INFO - helpers.log_helper - Finished configuring logger.
+2022-07-06 22:43:49,323 INFO - __main__ - Finished generating dataset
+2022-07-06 22:56:52,359 INFO - __main__ - Results: {'fdr': 1.0, 'tpr': 0.0, 'fpr': 0.02774663677130045, 'shd': 693, 'pred_size': 693}

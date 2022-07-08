@@ -1,0 +1,26 @@
+2022-07-07 23:31:21,511 INFO - helpers.log_helper - Finished configuring logger.
+2022-07-07 23:31:21,525 INFO - __main__ - Finished generating dataset
+2022-07-07 23:31:22,265 INFO - models.notears - Model summary:
+2022-07-07 23:31:22,266 INFO - models.notears - ---------
+2022-07-07 23:31:22,266 INFO - models.notears - Variables: name (type shape) [size]
+2022-07-07 23:31:22,266 INFO - models.notears - ---------
+2022-07-07 23:31:22,267 INFO - models.notears - Variable:0 (float32 67x67) [4489, bytes: 17956]
+2022-07-07 23:31:22,267 INFO - models.notears - Total size of variables: 4489
+2022-07-07 23:31:22,268 INFO - models.notears - Total bytes of variables: 17956
+2022-07-07 23:31:22,318 INFO - trainers.al_trainer - Started training for 2 iterations
+2022-07-07 23:31:22,318 INFO - trainers.al_trainer - rho 1.000E+00, alpha 0.000E+00
+2022-07-07 23:31:27,271 INFO - trainers.al_trainer - [Iter 1] loss 2.602E+13, mse 1.296E+17, acyclic 3.943E-01, shd 843, tpr 0.195, fdr 0.971, pred_size 793
+2022-07-07 23:31:27,272 INFO - trainers.al_trainer - rho 1.000E+00, alpha 3.943E-01
+2022-07-07 23:31:32,498 INFO - trainers.al_trainer - rho 1.000E+01, alpha 3.943E-01
+2022-07-07 23:31:38,148 INFO - trainers.al_trainer - rho 1.000E+02, alpha 3.943E-01
+2022-07-07 23:31:44,061 INFO - trainers.al_trainer - rho 1.000E+03, alpha 3.943E-01
+2022-07-07 23:31:50,203 INFO - trainers.al_trainer - rho 1.000E+04, alpha 3.943E-01
+2022-07-07 23:31:56,543 INFO - trainers.al_trainer - rho 1.000E+05, alpha 3.943E-01
+2022-07-07 23:32:03,142 INFO - trainers.al_trainer - rho 1.000E+06, alpha 3.943E-01
+2022-07-07 23:32:09,727 INFO - trainers.al_trainer - rho 1.000E+07, alpha 3.943E-01
+2022-07-07 23:32:16,450 INFO - trainers.al_trainer - rho 1.000E+08, alpha 3.943E-01
+2022-07-07 23:32:23,369 INFO - trainers.al_trainer - [Iter 2] loss 1.553E+13, mse 7.739E+16, acyclic 7.707E-02, shd 1133, tpr 0.305, fdr 0.968, pred_size 1115
+2022-07-07 23:32:23,411 INFO - trainers.al_trainer - Model saved to output/2022-07-08_12-31-21-510/model/
+2022-07-07 23:32:23,413 INFO - __main__ - Finished training model
+2022-07-07 23:32:23,766 INFO - __main__ - Thresholding.
+2022-07-07 23:32:24,096 INFO - __main__ - Results after thresholding by 0.3: {'fdr': 0.9733152419719584, 'tpr': 1.0, 'fpr': 2.0563784042044913, 'shd': 2211, 'pred_size': 4422}

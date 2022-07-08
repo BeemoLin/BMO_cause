@@ -1,0 +1,51 @@
+digraph {
+	total_rx
+	"consumer_branded_facebook.impressions"
+	"consumer_branded_website.sessions"
+	"consumer_disease_state_lighter_blue_facebook.impressions"
+	"consumer_display_ads.impressions"
+	"consumer_online_tv.impressions"
+	"consumer_sem.impressions"
+	"hcp_biopharm_clintopics_email.sent_email"
+	"hcp_display_ads.impressions"
+	"hcp_emr_media_klick.impressions"
+	"consumer_branded_facebook.impressions" -> total_rx [label=9.72]
+	"consumer_branded_website.sessions" -> total_rx [label=-0.34]
+	"consumer_disease_state_lighter_blue_facebook.impressions" -> total_rx [label=10.26]
+	"consumer_display_ads.impressions" -> total_rx [label=13.50]
+	"consumer_online_tv.impressions" -> total_rx [label=13.26]
+	"consumer_sem.impressions" -> total_rx [label=4.13]
+	"hcp_biopharm_clintopics_email.sent_email" -> total_rx [label=0.52]
+	"hcp_display_ads.impressions" -> total_rx [label=2.30]
+	"hcp_emr_media_klick.impressions" -> total_rx [label=5.22]
+	"consumer_display_ads.impressions" -> "consumer_branded_facebook.impressions" [label=-6.85]
+	"consumer_online_tv.impressions" -> "consumer_branded_facebook.impressions" [label=0.39]
+	"consumer_branded_facebook.impressions" -> "consumer_branded_website.sessions" [label=-0.54]
+	"consumer_disease_state_lighter_blue_facebook.impressions" -> "consumer_branded_website.sessions" [label=6.55]
+	"consumer_display_ads.impressions" -> "consumer_branded_website.sessions" [label=13.88]
+	"consumer_online_tv.impressions" -> "consumer_branded_website.sessions" [label=10.81]
+	"consumer_sem.impressions" -> "consumer_branded_website.sessions" [label=0.79]
+	"consumer_display_ads.impressions" -> "consumer_disease_state_lighter_blue_facebook.impressions" [label=2.40]
+	"consumer_display_ads.impressions" -> "consumer_online_tv.impressions" [label=2.21]
+	"consumer_branded_facebook.impressions" -> "consumer_sem.impressions" [label=0.94]
+	"consumer_disease_state_lighter_blue_facebook.impressions" -> "consumer_sem.impressions" [label=2.27]
+	"consumer_display_ads.impressions" -> "consumer_sem.impressions" [label=13.65]
+	"consumer_online_tv.impressions" -> "consumer_sem.impressions" [label=4.84]
+	"consumer_branded_facebook.impressions" -> "hcp_biopharm_clintopics_email.sent_email" [label=-0.58]
+	"consumer_branded_website.sessions" -> "hcp_biopharm_clintopics_email.sent_email" [label=0.32]
+	"consumer_disease_state_lighter_blue_facebook.impressions" -> "hcp_biopharm_clintopics_email.sent_email" [label=-7.36]
+	"consumer_display_ads.impressions" -> "hcp_biopharm_clintopics_email.sent_email" [label=14.09]
+	"consumer_online_tv.impressions" -> "hcp_biopharm_clintopics_email.sent_email" [label=3.33]
+	"hcp_display_ads.impressions" -> "hcp_biopharm_clintopics_email.sent_email" [label=-1.83]
+	"hcp_emr_media_klick.impressions" -> "hcp_biopharm_clintopics_email.sent_email" [label=1.14]
+	"consumer_branded_facebook.impressions" -> "hcp_display_ads.impressions" [label=-0.34]
+	"consumer_disease_state_lighter_blue_facebook.impressions" -> "hcp_display_ads.impressions" [label=-2.15]
+	"consumer_display_ads.impressions" -> "hcp_display_ads.impressions" [label=12.67]
+	"consumer_online_tv.impressions" -> "hcp_display_ads.impressions" [label=9.34]
+	"hcp_emr_media_klick.impressions" -> "hcp_display_ads.impressions" [label=1.44]
+	"consumer_display_ads.impressions" -> "hcp_emr_media_klick.impressions" [label=13.13]
+	"consumer_online_tv.impressions" -> "hcp_emr_media_klick.impressions" [label=1.47]
+	{
+		rank=same
+	}
+}

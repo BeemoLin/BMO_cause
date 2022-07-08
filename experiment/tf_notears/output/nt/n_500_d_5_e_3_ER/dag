@@ -1,0 +1,11 @@
+digraph {
+	Sell
+	Promotions
+	OpenHours
+	Promotions -> Sell [label=20.00]
+	OpenHours -> Sell [label=2.00]
+	OpenHours -> Promotions [label=1.00]
+	{
+		rank=same
+	}
+}

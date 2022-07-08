@@ -1,0 +1,5 @@
+Best Epoch: 0096
+Best Epoch: 0180
+Best Epoch: 0068
+Best Epoch: 0199
+Best Epoch: 0292

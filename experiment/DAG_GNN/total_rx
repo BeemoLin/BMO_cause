@@ -1,0 +1,93 @@
+digraph {
+	total_rx
+	trend
+	"consumer_adherence_program_taccess_alazzo_klick_emails.sent_email"
+	"consumer_adheris_in_home.print"
+	"consumer_online_tv.impressions"
+	"hcp_biopharm_patient_care_insights_email.sent_email"
+	"hcp_biopharm_vacantterritory_email.sent_email"
+	"hcp_lundbeck_iengage_remote_meeting.detail"
+	"hcp_lundbeck_sales_rep_detailing_lunch_learn.detail"
+	"hcp_lundbeck_sales_rep_detailing_phone.detail"
+	"hcp_my_sample_closet.shipped_quantity"
+	"hcp_rep_approved_emails.sent_email"
+	"hcp_savings_card_free_trial.claims"
+	"hcp_speaker_programs_virtual.attendees"
+	"hcp_takeda_iengage_remote_meeting.detail"
+	"hcp_takeda_sales_rep_detailing_direct_mail_staff.detail"
+	"hcp_takeda_sales_rep_detailing_f2f_staff.detail"
+	"hcp_takeda_sales_rep_detailing_phone_hcp.detail"
+	"hcp_takeda_sales_rep_detailing_phone_staff.detail"
+	"hcp_teledetailing_call.completed_call"
+	"hcp_teledetailing_sample_fulfillment.shipped_quantity"
+	seasonality_December
+	seasonality_February
+	seasonality_January
+	seasonality_July
+	seasonality_June
+	seasonality_October
+	seasonality_September
+	trend -> total_rx [label=0.41]
+	"consumer_adherence_program_taccess_alazzo_klick_emails.sent_email" -> total_rx [label=0.37]
+	"consumer_adheris_in_home.print" -> total_rx [label=0.35]
+	"consumer_online_tv.impressions" -> total_rx [label=-0.33]
+	"hcp_biopharm_patient_care_insights_email.sent_email" -> total_rx [label=0.40]
+	"hcp_biopharm_vacantterritory_email.sent_email" -> total_rx [label=0.38]
+	"hcp_lundbeck_iengage_remote_meeting.detail" -> total_rx [label=0.49]
+	"hcp_lundbeck_sales_rep_detailing_lunch_learn.detail" -> total_rx [label=0.50]
+	"hcp_lundbeck_sales_rep_detailing_phone.detail" -> total_rx [label=0.35]
+	"hcp_my_sample_closet.shipped_quantity" -> total_rx [label=0.48]
+	"hcp_rep_approved_emails.sent_email" -> total_rx [label=0.40]
+	"hcp_savings_card_free_trial.claims" -> total_rx [label=0.80]
+	"hcp_speaker_programs_virtual.attendees" -> total_rx [label=0.50]
+	"hcp_takeda_iengage_remote_meeting.detail" -> total_rx [label=0.43]
+	"hcp_takeda_sales_rep_detailing_direct_mail_staff.detail" -> total_rx [label=0.30]
+	"hcp_takeda_sales_rep_detailing_f2f_staff.detail" -> total_rx [label=0.41]
+	"hcp_takeda_sales_rep_detailing_phone_hcp.detail" -> total_rx [label=0.34]
+	"hcp_takeda_sales_rep_detailing_phone_staff.detail" -> total_rx [label=0.53]
+	"hcp_teledetailing_call.completed_call" -> total_rx [label=0.37]
+	"hcp_teledetailing_sample_fulfillment.shipped_quantity" -> total_rx [label=0.51]
+	seasonality_December -> total_rx [label=0.37]
+	seasonality_February -> total_rx [label=0.39]
+	seasonality_January -> total_rx [label=0.37]
+	seasonality_July -> total_rx [label=0.32]
+	seasonality_June -> total_rx [label=0.53]
+	seasonality_October -> total_rx [label=0.46]
+	seasonality_September -> total_rx [label=0.53]
+	"consumer_online_tv.impressions" -> trend [label=-0.33]
+	"consumer_online_tv.impressions" -> "consumer_adherence_program_taccess_alazzo_klick_emails.sent_email" [label=-0.32]
+	"consumer_online_tv.impressions" -> "consumer_online_tv.impressions" [label=1.00]
+	total_rx -> "hcp_biopharm_patient_care_insights_email.sent_email" [label=0.31]
+	"hcp_biopharm_patient_care_insights_email.sent_email" -> "hcp_biopharm_patient_care_insights_email.sent_email" [label=0.31]
+	trend -> "hcp_biopharm_vacantterritory_email.sent_email" [label=-0.43]
+	"consumer_adheris_in_home.print" -> "hcp_biopharm_vacantterritory_email.sent_email" [label=-0.38]
+	"hcp_lundbeck_iengage_remote_meeting.detail" -> "hcp_biopharm_vacantterritory_email.sent_email" [label=-0.34]
+	"hcp_lundbeck_sales_rep_detailing_lunch_learn.detail" -> "hcp_biopharm_vacantterritory_email.sent_email" [label=-0.34]
+	"hcp_rep_approved_emails.sent_email" -> "hcp_biopharm_vacantterritory_email.sent_email" [label=-0.48]
+	"hcp_savings_card_free_trial.claims" -> "hcp_biopharm_vacantterritory_email.sent_email" [label=-0.49]
+	"hcp_speaker_programs_virtual.attendees" -> "hcp_biopharm_vacantterritory_email.sent_email" [label=-0.39]
+	"hcp_takeda_sales_rep_detailing_direct_mail_staff.detail" -> "hcp_biopharm_vacantterritory_email.sent_email" [label=-0.32]
+	"hcp_takeda_sales_rep_detailing_f2f_staff.detail" -> "hcp_biopharm_vacantterritory_email.sent_email" [label=-0.34]
+	"hcp_takeda_sales_rep_detailing_phone_hcp.detail" -> "hcp_biopharm_vacantterritory_email.sent_email" [label=-0.35]
+	"hcp_teledetailing_call.completed_call" -> "hcp_biopharm_vacantterritory_email.sent_email" [label=-0.39]
+	"hcp_teledetailing_sample_fulfillment.shipped_quantity" -> "hcp_biopharm_vacantterritory_email.sent_email" [label=-0.30]
+	seasonality_December -> "hcp_biopharm_vacantterritory_email.sent_email" [label=-0.38]
+	seasonality_February -> "hcp_biopharm_vacantterritory_email.sent_email" [label=-0.39]
+	seasonality_January -> "hcp_biopharm_vacantterritory_email.sent_email" [label=-0.39]
+	seasonality_July -> "hcp_biopharm_vacantterritory_email.sent_email" [label=-0.38]
+	seasonality_June -> "hcp_biopharm_vacantterritory_email.sent_email" [label=-0.38]
+	seasonality_October -> "hcp_biopharm_vacantterritory_email.sent_email" [label=-0.41]
+	seasonality_September -> "hcp_biopharm_vacantterritory_email.sent_email" [label=-0.38]
+	"consumer_online_tv.impressions" -> "hcp_lundbeck_sales_rep_detailing_phone.detail" [label=0.50]
+	"hcp_rep_approved_emails.sent_email" -> "hcp_my_sample_closet.shipped_quantity" [label=0.55]
+	"hcp_savings_card_free_trial.claims" -> "hcp_my_sample_closet.shipped_quantity" [label=0.46]
+	"consumer_online_tv.impressions" -> "hcp_rep_approved_emails.sent_email" [label=0.44]
+	"consumer_online_tv.impressions" -> "hcp_savings_card_free_trial.claims" [label=0.32]
+	trend -> "hcp_takeda_iengage_remote_meeting.detail" [label=-0.33]
+	"consumer_online_tv.impressions" -> "hcp_takeda_sales_rep_detailing_phone_hcp.detail" [label=0.52]
+	"consumer_online_tv.impressions" -> "hcp_takeda_sales_rep_detailing_phone_staff.detail" [label=0.44]
+	"consumer_online_tv.impressions" -> "hcp_teledetailing_call.completed_call" [label=0.50]
+	{
+		rank=same
+	}
+}
